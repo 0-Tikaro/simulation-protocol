@@ -40,7 +40,7 @@ Released on **8 June 2018** |
 Made for **Minecraft 1.7** |   
 Released on **1 October 2014** |   
 
-_Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
+  _Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
 
 ---
 
