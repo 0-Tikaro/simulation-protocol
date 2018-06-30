@@ -37,8 +37,8 @@ Released on **8 June 2018** |
 <br><br>
 
 ## [OVERLOAD (SP02)][link_overload]
-<p style="margin:0"><img src="https://i.imgur.com/Iso86Dq.png" width="100%"></p>
-<p align="center">
+<p style="margin:0"><img src="https://i.imgur.com/Iso86Dq.png" width="700px"></p>
+<p style="margin-right:1px" align="center">
   <a target="_blank" href="https://i.imgur.com/1JM7Oka.png"><img src="https://i.imgur.com/1JM7Oka.png" width="230px"></a>
   <a target="_blank" href="https://i.imgur.com/rCeKKJA.png"><img src="https://i.imgur.com/rCeKKJA.png" width="230px"></a>
   <a target="_blank" href="https://i.imgur.com/hNdBPGk.png"><img src="https://i.imgur.com/hNdBPGk.png" width="230px"></a>
