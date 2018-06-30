@@ -42,8 +42,8 @@ Released on **8 June 2018** |
   <a target="_blank" href="https://i.imgur.com/Iso86Dq.png"><img src="https://i.imgur.com/Iso86Dq.png" alt="Forest" width="200px"></a> |
   <a target="_blank" href="https://i.imgur.com/Iso86Dq.png"><img src="https://i.imgur.com/Iso86Dq.png" alt="Forest" width="200px"></a>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
+
 16 objectives + 4 craftable blocks |   
 Made for **Minecraft 1.7** |   
 Released on **1 October 2014** |   
