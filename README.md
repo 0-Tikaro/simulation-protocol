@@ -18,7 +18,7 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 
 ---
 
-## FULL-LENGTH CTM
+#### FULL-LENGTH CTM
 These maps are the "classic" in terms of size: they offer big challenges with 20+ hours of gameplay time. They also have at least 15 mandatory objectives.
 
 ---
@@ -45,7 +45,7 @@ _Why is this world here, what’s its purpose? Forgotten by everyone: animals, h
 ---
 <br><br>
 
-### [ANIMOSITY (SP01)][link_animosity]
+## [ANIMOSITY (SP01)][link_animosity]
 ![Simulation Protocol 01: Animosity](https://i.imgur.com/mf4gd0p.png)
 (More Screenshots)
 
@@ -58,12 +58,12 @@ Released on **14 September 2013** |
 ---
 <br><br>
 
-## MINI-CTM
+#### MINI-CTM
 These are smaller maps, featuring just 3 objectives. Most were made for the Strawberry Jam events.
 
 ---
 
-### [Ligebied][link_ligebied]
+## [LIGEBIED][link_ligebied]
 ![Ligebied](https://i.imgur.com/lbHV9oz.png)
 
 <i>An old chapel stands alone, looking over the distant sea. It is said that long ago, the secret of fabled golden oaks was kept there. Perhaps it is what you seek?</i>
@@ -77,7 +77,7 @@ Released on **29 April 2017** |
 <br><br>
 <br><br>
 
-### [Phantasm][link_phantasm]
+### [PHANTASM][link_phantasm]
 ![Screenshot](https://i.imgur.com/xXHK6t4.png)
 
 _[TRANSMISSION START]
@@ -93,7 +93,7 @@ Released on **11 August 2015** |
 <br><br>
 <br><br>
 
-### [Sound of an Old Age][link_sound]
+### [SOUND OF AN OLD AGE][link_sound]
 ![Screenshot](https://i.imgur.com/56AeF0C.png)
 
 _Follow your legacy as a beasthunter to the wicked lands, infested with horrible creatures, in search of great treasures: the Heirlooms of a long-lost bloodline. Retrieve them from the depths of the Old Cathedral, but be careful, as it is a dangerous place to explore alone. May you succumb to numerous monsters or explode to pieces due to a slight mistake, surely no living soul will know..._
@@ -107,7 +107,7 @@ Released on **12 April 2015** |
 <br><br>
 <br><br>
 
-### [Blizzard][link_blizzard]
+### [BLIZZARD][link_blizzard]
 ![Screenshot](https://i.imgur.com/HEHZyqf.png)
 
 <i>Your mind springs up suddenly, hit by a sharp frigid wind. What happened...?</i>
@@ -121,7 +121,7 @@ Released on **29 June 2014** |
 <br><br>
 <br><br>
 
-### [Sandstorm][link_sandstorm]
+### [SANDSTORM][link_sandstorm]
 ![Screenshot](https://i.imgur.com/Fsb7f6T.png)
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #03. Theme is "Journey".
