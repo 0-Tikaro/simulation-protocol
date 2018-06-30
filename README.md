@@ -31,7 +31,7 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
 
 ## [ENTROPY (SP03)][link_entropy]
 <p style="margin:0"><img src="https://i.imgur.com/osoC0vP.png" width="700px"></p>
-<p>
+<p style="margin:0">
   <a target="_blank" href="https://i.imgur.com/yq6XaRl.png"><img src="https://i.imgur.com/yq6XaRl.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/HKzngOt.png"><img src="https://i.imgur.com/HKzngOt.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/lbQI7AC.png"><img src="https://i.imgur.com/lbQI7AC.png" width="231px"></a>
@@ -51,7 +51,7 @@ Surviving several years of on-and-off development, this the definitive CTM exper
 
 ## [OVERLOAD (SP02)][link_overload]
 <p style="margin:0"><img src="https://i.imgur.com/Iso86Dq.png" width="700px"></p>
-<p>
+<p style="margin:0">
   <a target="_blank" href="https://i.imgur.com/LF8G5Gm.png"><img src="https://i.imgur.com/LF8G5Gm.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/xZQ03FB.png"><img src="https://i.imgur.com/xZQ03FB.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/bJkY82G.png"><img src="https://i.imgur.com/bJkY82G.png" width="231px"></a>
@@ -72,7 +72,7 @@ Before the release of Entropy, this was the definintive "TikaroHD's CTM" map. Ov
 
 ## [ANIMOSITY (SP01)][link_animosity]
 <p style="margin:0"><img src="https://i.imgur.com/nhbZ0D9.png" width="700px"></p>
-<p>
+<p style="margin:0">
   <a target="_blank" href="https://i.imgur.com/rZfRu4L.png"><img src="https://i.imgur.com/rZfRu4L.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/IKr0TUa.png"><img src="https://i.imgur.com/IKr0TUa.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/f2saYVP.png"><img src="https://i.imgur.com/f2saYVP.png" width="231px"></a>
