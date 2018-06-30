@@ -15,12 +15,13 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 7. Your objective is to find and complete the special wool monument.
 8. You cannot craft objective items for the monument, except for metal/gem blocks.
 
-# BIG MAPS
+## BIG MAPS
 
 ## ENTROPY (SP03)
 hold on nothing here yet
 
----
+Length | 15 objectives
+Made for | Minecraft 1.12
 
 ## [OVERLOAD (SP02)][link_overload]
 ![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
@@ -31,78 +32,69 @@ Why is this world here, what’s its purpose? Forgotten by everyone: animals, hu
 Length | 16 objectives + 4 craftable blocks
 Made for | Minecraft 1.7
 
----
-
 ### [ANIMOSITY (SP01)][link_animosity]
 
 (More Screenshots)
 
 Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…
-[Download]
-Length: 20 objectives
-Made for Minecraft 1.7
-Map version 1.1.1
+
+Length | 16 objectives + 4 craftable blocks
+Made for | Minecraft 1.7
 
 
-
-
-# SMALL MAPS
-
+## SMALL MAPS
 
 ### Ligebied
-![test](https://i.imgur.com/lbHV9oz.png)
-Length: 3 objectives
-Made for Minecraft 1.10
-
-[Download]
+![Ligebied](https://i.imgur.com/lbHV9oz.png)
 
 <i>An old chapel stands alone, looking over the distant sea. It is said that long ago, the secret of fabled golden oaks was kept there. Perhaps it is what you seek?</i>
+
 This map was a small experiment with some of the concepts later used in Entropy. It is not a coincidence that this map is set in the same universe as SP03 and expands some details of its lore.
+
+Length | 3 objectives
+Made for | Minecraft 1.10
 
 
 ### [Phantasm](http://www.mediafire.com/file/g1e2v44jsxp7d24/The_Phantasm_v1.1.zip/file)
 *screenshot*
-Length: 3 objectives
-Made for Minecraft 1.8
 
-_LOG 702_0: TRANSMISSION START
-LOG 702_1: Ranger, you have a mission. "Phantasm", the old terran ship, was located. Our reports confirm presence of valuable data inside. It must be retrieved. But be careful - you will encounter heavy resistance.
-LOG 702_2: TRANSMISSION END_
+_[TRANSMISSION START]
+Ranger, you have a mission. "Phantasm", the old terran ship, was located. Our reports confirm presence of valuable data inside. It must be retrieved. But be careful - you will encounter heavy resistance.
+[TRANSMISSION END]_
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #07. Theme is "Shattered Sky", with the limitation that the whole map must be floating over void. 
+
+Length | 3 objectives
+Made for | Minecraft 1.8
 
 
 ### [Sound of an Old Age](http://www.mediafire.com/file/9lono234wlp55i3/Sound_of_an_Old_Age_v1.1.zip/file)
 *screenshot*
-Length: 3 objectives
-Made for Minecraft 1.7
 
 _Follow your legacy as a beasthunter to the wicked lands, infested with horrible creatures, in search of great treasures: the Heirlooms of a long-lost bloodline. Retrieve them from the depths of the Old Cathedral, but be careful, as it is a dangerous place to explore alone. May you succumb to numerous monsters or explode to pieces due to a slight mistake, surely no living soul will know..._
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #06. Theme is "Traps, Trolls, & April Fools", but the map takes that theme very liberally.
 
+Length | 3 objectives
+Made for | Minecraft 1.7
 
 ### Blizzard
 *screenshot*
-Length: 3 objectives
-Made for Minecraft 1.7
-
-[Download]
 
 <i>Your mind springs up suddenly, hit by a sharp frigid wind. What happened...?</i>
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #04. Participants had to choose a theme that started with the letter "A". Theme of this map is "Abandonment".
 
+Length | 3 objectives
+Made for | Minecraft 1.7
 
 ### Sandstorm
 *screenshot*
-Length: 3 objectives
-Made for Minecraft 1.7
-
-[Download]
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #03. Theme is "Journey".
 
+Length | 3 objectives
+Made for | Minecraft 1.7
 
 #### LEGAL
 - You are allowed to make videos\streams of my maps and monetize them.
