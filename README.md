@@ -25,7 +25,9 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives, they offer long-term challenges with 20+ hours of gameplay time.
 
 ## [ENTROPY (SP03)][link_entropy]
-<p style="margin:0"><img src="https://i.imgur.com/osoC0vP.png" width="700px"></p>
+<p style="margin:0">
+  <a target="_blank" href="https://i.imgur.com/osoC0vP.png"><img src="https://i.imgur.com/osoC0vP.png" width="700px"></a>
+</p>
 <p style="margin:0">
   <a target="_blank" href="https://i.imgur.com/yq6XaRl.png"><img src="https://i.imgur.com/yq6XaRl.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/HKzngOt.png"><img src="https://i.imgur.com/HKzngOt.png" width="231px"></a>
@@ -43,7 +45,9 @@ Surviving several years of on-and-off development, this the definitive CTM exper
 ---
 
 ## [OVERLOAD (SP02)][link_overload]
-<p style="margin:0"><img src="https://i.imgur.com/Iso86Dq.png" width="700px"></p>
+<p style="margin:0">
+  <a target="_blank" href="https://i.imgur.com/Iso86Dq.png"><img src="https://i.imgur.com/Iso86Dq.png" width="700px"></a>
+</p>
 <p style="margin:0">
   <a target="_blank" href="https://i.imgur.com/LF8G5Gm.png"><img src="https://i.imgur.com/LF8G5Gm.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/xZQ03FB.png"><img src="https://i.imgur.com/xZQ03FB.png" width="231px"></a>
@@ -61,7 +65,9 @@ Before the release of Entropy, this was the definintive "TikaroHD's CTM" map. Ov
 ---
 
 ## [ANIMOSITY (SP01)][link_animosity]
-<p style="margin:0"><img src="https://i.imgur.com/nhbZ0D9.png" width="700px"></p>
+<p style="margin:0">
+  <a target="_blank" href="https://i.imgur.com/nhbZ0D9.png"><img src="https://i.imgur.com/nhbZ0D9.png" width="700px"></a>
+</p>
 <p style="margin:0">
   <a target="_blank" href="https://i.imgur.com/rZfRu4L.png"><img src="https://i.imgur.com/rZfRu4L.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/IKr0TUa.png"><img src="https://i.imgur.com/IKr0TUa.png" width="231px"></a>
@@ -85,7 +91,9 @@ This is the very first CTM map I made. As such, it's fairly bland and does not h
 These are smaller maps, featuring just 3 objectives. They provide a nice small challenge for just a couple of hours - just enough for a small weekend entertainment. Most were made for the [Strawberry Jam](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/maps-discussion/2311800) events.
 
 ## [LIGEBIED][link_ligebied]
-<p style="margin:0"><img src="https://i.imgur.com/lbHV9oz.png" width="700px"></p>
+<p style="margin:0">
+  <a target="_blank" href="https://i.imgur.com/lbHV9oz.png"><img src="https://i.imgur.com/lbHV9oz.png" width="700px"></a>
+</p>
 
 3 objectives |   
 Made for **Minecraft 1.10** |   
@@ -98,7 +106,9 @@ This map was a small experiment with some of the concepts later used in Entropy,
 ---
 
 ## [PHANTASM][link_phantasm]
-<p style="margin:0"><img src="https://i.imgur.com/xXHK6t4.png" width="700px"></p>
+<p style="margin:0">
+  <a target="_blank" href="https://i.imgur.com/xXHK6t4.png"><img src="https://i.imgur.com/xXHK6t4.png" width="700px"></a>
+</p>
 
 3 objectives |   
 Made for **Minecraft 1.8** |   
@@ -111,7 +121,9 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #07. Them
 ---
 
 ## [SOUND OF AN OLD AGE][link_sound]
-<p style="margin:0"><img src="https://i.imgur.com/56AeF0C.png" width="700px"></p>
+<p style="margin:0">
+  <a target="_blank" href="https://i.imgur.com/56AeF0C.png"><img src="https://i.imgur.com/56AeF0C.png" width="700px"></a>
+</p>
 
 3 objectives |   
 Made for **Minecraft 1.7** |   
@@ -124,7 +136,9 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #06. Them
 ---
 
 ## [BLIZZARD][link_blizzard]
-<p style="margin:0"><img src="https://i.imgur.com/HEHZyqf.png" width="700px"></p>
+<p style="margin:0">
+  <a target="_blank" href="https://i.imgur.com/HEHZyqf.png"><img src="https://i.imgur.com/HEHZyqf.png" width="700px"></a>
+</p>
 
 3 objectives |   
 Made for **Minecraft 1.7** |   
@@ -137,7 +151,9 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #04. Part
 ---
 
 ## [SANDSTORM][link_sandstorm]
-<p style="margin:0"><img src="https://i.imgur.com/zNQv8F6.png" width="700px"></p>
+<p style="margin:0">
+  <a target="_blank" href="https://i.imgur.com/zNQv8F6.png"><img src="https://i.imgur.com/zNQv8F6.png" width="700px"></a>
+</p>
 
 3 objectives |   
 Made for **Minecraft 1.7** |   
