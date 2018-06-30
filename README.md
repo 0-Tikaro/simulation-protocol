@@ -103,8 +103,8 @@ Length | 3 objectives
 Made for | Minecraft 1.7
 Release date | 29 June 2014
 
-### Sandstorm
-*screenshot*
+### [Sandstorm][link_sandstorm]
+![Sandstorm](https://i.imgur.com/Fsb7f6T.png)
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #03. Theme is "Journey".
 
@@ -118,7 +118,12 @@ Release date | 23 March 2014
 - You are not allowed to re-upload or mirror link my maps.
 - I am not responsible for any damage my maps may cause. The responsibility falls on the end user.
 
-
+[link_entropy]: nothing
 [link_overload]: http://www.mediafire.com/file/8rx8ul5ggaip2uf
 [link_animosity]: http://www.mediafire.com/file/zdbdur06fou653y
+
 [link_ligebied]: http://www.mediafire.com/file/7cadie9frem35u8
+[link_phantasm]: http://www.mediafire.com/file/g1e2v44jsxp7d24
+[link_sound]: http://www.mediafire.com/file/9lono234wlp55i3
+[link_blizzard]: http://www.mediafire.com/file/nmnd64q06sh117c
+[link_sandstorm]: http://www.mediafire.com/file/9bjzobr8u4d4b35
