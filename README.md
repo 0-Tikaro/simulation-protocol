@@ -28,8 +28,6 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 #### FULL-LENGTH CTM
 These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives, they offer long-term challenges with 20+ hours of gameplay time.
 
----
-
 ## [ENTROPY (SP03)][link_entropy]
 <p style="margin:0"><img src="https://i.imgur.com/osoC0vP.png" width="700px"></p>
 <p style="margin:0">
@@ -46,8 +44,7 @@ hold on nothing here yet
 
 Surviving several years of on-and-off development, this the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass. The map is spiced up with a custom-made resource pack that will require you to install Optifine to play it.
 
-<br><br>
-
+---
 
 ## [OVERLOAD (SP02)][link_overload]
 <p style="margin:0"><img src="https://i.imgur.com/Iso86Dq.png" width="700px"></p>
@@ -66,9 +63,6 @@ _Why is this world here, what’s its purpose? Forgotten by everyone: animals, h
 Before the release of Entropy, this was the definintive "TikaroHD's CTM" map. Overload is quite dated by now, but it offers a much more refined experience compared to Animosity. Better visuals and more balanced gameplay ensure that you'll have a fun time messing around with this map.
 
 ---
-<br><br>
-
-
 
 ## [ANIMOSITY (SP01)][link_animosity]
 <p style="margin:0"><img src="https://i.imgur.com/nhbZ0D9.png" width="700px"></p>
