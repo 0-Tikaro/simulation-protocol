@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+  width: 1000px;
+}
+
+header {
+  width: 300px;
+}
 section {
   width: 700px;
 }
