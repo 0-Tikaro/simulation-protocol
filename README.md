@@ -21,8 +21,7 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 hold on nothing here yet
 
 ### [OVERLOAD (SP02)][link_overload]
-*screenshot*
-
+![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
 (More Screenshots)
 
 Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?
@@ -30,10 +29,10 @@ Why is this world here, what’s its purpose? Forgotten by everyone: animals, hu
 
 Length: **16 objectives + 4 craftable blocks**
 Made for **Minecraft 1.7**
-
+---
 
 ### [ANIMOSITY (SP01)][link_animosity]
-![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
+
 (More Screenshots)
 
 Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…
