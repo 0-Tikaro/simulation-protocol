@@ -29,7 +29,7 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives, they offer long-term challenges with 20+ hours of gameplay time.
 
 ---
-
+<div>
 ## [ENTROPY (SP03)][link_entropy]
 <p style="margin:0"><img src="https://i.imgur.com/osoC0vP.png" width="700px"></p>
 <p style="margin:0">
@@ -47,7 +47,7 @@ hold on nothing here yet
 Surviving several years of on-and-off development, this the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass. The map is spiced up with a custom-made resource pack that will require you to install Optifine to play it.
 
 <br><br>
-
+</div>
 
 
 ## [OVERLOAD (SP02)][link_overload]
