@@ -2,7 +2,7 @@ This is a finished collection of Minecraft CTM maps made by TikaroHD. There are 
 
 ---
 
-###### What are CTM maps?
+##### What are CTM maps?
 CTM (Complete The Monument) are big sprawling custom worlds, where you as a player have one clear objective: find the monument and fill it up with the objective items. The objective items are hidden throughout the map, most frequently in special dungeons. A map is “beaten” once you have collected all of these items and beaten all the dungeons.
 
 CTM maps have a standard suite of rules, which all boil down to “don’t play on peaceful and don’t abused the game too much”. You can read the full rule list I use down below:
