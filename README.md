@@ -97,7 +97,7 @@ These are smaller maps, featuring just 3 objectives. They provide a nice small c
 ---
 
 ## [LIGEBIED][link_ligebied]
-![Ligebied](https://i.imgur.com/lbHV9oz.png)
+<p style="margin:0"><img src="https://i.imgur.com/lbHV9oz.png" width="700px"></p>
 
 3 objectives |   
 Made for **Minecraft 1.10** |   
@@ -113,7 +113,7 @@ This map was a small experiment with some of the concepts later used in Entropy,
 
 
 ## [PHANTASM][link_phantasm]
-![Screenshot](https://i.imgur.com/xXHK6t4.png)
+<p style="margin:0"><img src="https://i.imgur.com/xXHK6t4.png" width="700px"></p>
 
 3 objectives |   
 Made for **Minecraft 1.8** |   
@@ -129,7 +129,7 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #07. Them
 
 
 ## [SOUND OF AN OLD AGE][link_sound]
-![Screenshot](https://i.imgur.com/56AeF0C.png)
+<p style="margin:0"><img src="https://i.imgur.com/56AeF0C.png" width="700px"></p>
 
 3 objectives |   
 Made for **Minecraft 1.7** |   
@@ -145,7 +145,7 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #06. Them
 
 
 ## [BLIZZARD][link_blizzard]
-![Screenshot](https://i.imgur.com/HEHZyqf.png)
+<p style="margin:0"><img src="https://i.imgur.com/HEHZyqf.png" width="700px"></p>
 
 3 objectives |   
 Made for **Minecraft 1.7** |   
@@ -161,7 +161,7 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #04. Part
 
 
 ## [SANDSTORM][link_sandstorm]
-![Screenshot](https://i.imgur.com/zNQv8F6.png)
+<p style="margin:0"><img src="https://i.imgur.com/zNQv8F6.png" width="700px"></p>
 
 3 objectives |   
 Made for **Minecraft 1.7** |   
