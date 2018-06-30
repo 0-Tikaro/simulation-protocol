@@ -19,7 +19,7 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 ##ENTROPY (SP03)
 hold on nothing here yet
 
-##[OVERLOAD (SP02)](http://www.mediafire.com/file/8rx8ul5ggaip2uf/SP_02_-_Overload_v1.0a.zip/file)
+## [OVERLOAD (SP02)](http://www.mediafire.com/file/8rx8ul5ggaip2uf/SP_02_-_Overload_v1.0a.zip/file)
 *screenshot*
 (More Screenshots)
 Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?
