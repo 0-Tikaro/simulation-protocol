@@ -46,7 +46,7 @@ Map version 1.1.1
 
 
 >Ligebied
-*screenshot*
+![test](https://i.imgur.com/lbHV9oz.png)
 Length: 3 objectives
 Made for Minecraft 1.10
 
