@@ -18,13 +18,17 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 
 ---
 
-## BIG MAPS
+## FULL-LENGTH CTM
+These maps are the "classic" in terms of size: they offer big challenges with 20+ hours of gameplay time. They also have at least 15 mandatory objectives.
 
-## ENTROPY (SP03)
+---
+
+## [ENTROPY (SP03)][link_entropy]
 hold on nothing here yet
 
 Length | 15 objectives
 Made for | Minecraft 1.12
+Release date | 8 June 2018
 
 ## [OVERLOAD (SP02)][link_overload]
 ![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
@@ -34,18 +38,22 @@ Why is this world here, what’s its purpose? Forgotten by everyone: animals, hu
 
 Length | 16 objectives + 4 craftable blocks
 Made for | Minecraft 1.7
+Release date | 1 October 2014
 
 ### [ANIMOSITY (SP01)][link_animosity]
-
+![Simulation Protocol 01: Animosity](https://i.imgur.com/mf4gd0p.png)
 (More Screenshots)
 
 Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…
 
 Length | 16 objectives + 4 craftable blocks
 Made for | Minecraft 1.7
+Release date | 14 September 2013
 
+## MINI-CTM
+These are smaller maps, featuring just 3 objectives. Most were made for the Strawberry Jam events.
 
-## SMALL MAPS
+---
 
 ### Ligebied
 ![Ligebied](https://i.imgur.com/lbHV9oz.png)
@@ -56,7 +64,7 @@ This map was a small experiment with some of the concepts later used in Entropy.
 
 Length | 3 objectives
 Made for | Minecraft 1.10
-
+Release date | 29 April 2017
 
 ### [Phantasm](http://www.mediafire.com/file/g1e2v44jsxp7d24/The_Phantasm_v1.1.zip/file)
 *screenshot*
@@ -69,7 +77,7 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #07. Them
 
 Length | 3 objectives
 Made for | Minecraft 1.8
-
+Release date | 11 August 2015
 
 ### [Sound of an Old Age](http://www.mediafire.com/file/9lono234wlp55i3/Sound_of_an_Old_Age_v1.1.zip/file)
 *screenshot*
@@ -80,6 +88,7 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #06. Them
 
 Length | 3 objectives
 Made for | Minecraft 1.7
+Release date | 12 April 2015
 
 ### Blizzard
 *screenshot*
@@ -90,6 +99,7 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #04. Part
 
 Length | 3 objectives
 Made for | Minecraft 1.7
+Release date | 29 June 2014
 
 ### Sandstorm
 *screenshot*
@@ -98,6 +108,7 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #03. Them
 
 Length | 3 objectives
 Made for | Minecraft 1.7
+Release date | 23 March 2014
 
 #### LEGAL
 - You are allowed to make videos\streams of my maps and monetize them.
