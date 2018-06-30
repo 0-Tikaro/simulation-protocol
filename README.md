@@ -43,17 +43,19 @@ Released on **1 October 2014** |
 _Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
 
 ---
+<br><br>
 
 ### [ANIMOSITY (SP01)][link_animosity]
 ![Simulation Protocol 01: Animosity](https://i.imgur.com/mf4gd0p.png)
 (More Screenshots)
 
->_Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…_
+_Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…_
 
->16 objectives + 4 craftable blocks |   
+16 objectives + 4 craftable blocks |   
 Made for **Minecraft 1.7** |   
 Released on **14 September 2013** |   
 
+---
 <br><br>
 
 ## MINI-CTM
