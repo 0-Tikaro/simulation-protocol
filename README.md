@@ -57,7 +57,7 @@ These are smaller maps, featuring just 3 objectives. Most were made for the Stra
 
 ---
 
-### Ligebied
+### [Ligebied][link_ligebied]
 ![Ligebied](https://i.imgur.com/lbHV9oz.png)
 
 <i>An old chapel stands alone, looking over the distant sea. It is said that long ago, the secret of fabled golden oaks was kept there. Perhaps it is what you seek?</i>
@@ -68,7 +68,7 @@ Length | 3 objectives
 Made for | Minecraft 1.10
 Release date | 29 April 2017
 
-### [Phantasm](http://www.mediafire.com/file/g1e2v44jsxp7d24/The_Phantasm_v1.1.zip/file)
+### [Phantasm][link_phantasm]
 *screenshot*
 
 _[TRANSMISSION START]
@@ -81,7 +81,7 @@ Length | 3 objectives
 Made for | Minecraft 1.8
 Release date | 11 August 2015
 
-### [Sound of an Old Age](http://www.mediafire.com/file/9lono234wlp55i3/Sound_of_an_Old_Age_v1.1.zip/file)
+### [Sound of an Old Age][link_sound]
 *screenshot*
 
 _Follow your legacy as a beasthunter to the wicked lands, infested with horrible creatures, in search of great treasures: the Heirlooms of a long-lost bloodline. Retrieve them from the depths of the Old Cathedral, but be careful, as it is a dangerous place to explore alone. May you succumb to numerous monsters or explode to pieces due to a slight mistake, surely no living soul will know..._
@@ -92,7 +92,7 @@ Length | 3 objectives
 Made for | Minecraft 1.7
 Release date | 12 April 2015
 
-### Blizzard
+### [Blizzard][link_blizzard]
 *screenshot*
 
 <i>Your mind springs up suddenly, hit by a sharp frigid wind. What happened...?</i>
