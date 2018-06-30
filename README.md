@@ -102,9 +102,6 @@ _An old chapel stands alone, looking over the distant sea. It is said that long 
 This map was a small experiment with some of the concepts later used in Entropy, mainly the custom resource pack integration. It is not a coincidence that this map is set in the same universe as SP03 and exands one of its lore subjects - the "fabled golden oaks".
 
 ---
-<br><br>
-
-
 
 ## [PHANTASM][link_phantasm]
 <p style="margin:0"><img src="https://i.imgur.com/xXHK6t4.png" width="700px"></p>
@@ -118,9 +115,6 @@ _Ranger, you have a mission. "Phantasm", the old terran ship, was located. Our r
 This map was made in the span of 3 days as an entry for Strawberry Jam #07. Theme is "Shattered Sky", with the limitation that the whole map must be floating over void. 
 
 ---
-<br><br>
-
-
 
 ## [SOUND OF AN OLD AGE][link_sound]
 <p style="margin:0"><img src="https://i.imgur.com/56AeF0C.png" width="700px"></p>
@@ -134,9 +128,6 @@ _Follow your legacy as a beasthunter to the wicked lands, infested with horrible
 This map was made in the span of 3 days as an entry for Strawberry Jam #06. Theme is "Traps, Trolls, & April Fools", but the map takes that theme very liberally.
 
 ---
-<br><br>
-
-
 
 ## [BLIZZARD][link_blizzard]
 <p style="margin:0"><img src="https://i.imgur.com/HEHZyqf.png" width="700px"></p>
@@ -150,9 +141,6 @@ _Your mind springs up suddenly, hit by a sharp frigid wind. What happened...?_
 This map was made in the span of 3 days as an entry for Strawberry Jam #04. Participants had to choose a theme that started with the letter "A". Theme of this map is "Abandonment".
 
 ---
-<br><br>
-
-
 
 ## [SANDSTORM][link_sandstorm]
 <p style="margin:0"><img src="https://i.imgur.com/zNQv8F6.png" width="700px"></p>
@@ -164,7 +152,6 @@ Released on **23 March 2014** |
 This map was made in the span of 3 days as an entry for Strawberry Jam #03. Theme is "Journey".
 
 ---
-<br><br>
 
 #### LEGAL
 - You are allowed to make videos\streams of my maps and monetize them.
