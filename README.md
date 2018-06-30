@@ -26,24 +26,31 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
 ---
 
 ## [ENTROPY (SP03)][link_entropy]
-hold on nothing here yet
 
-Surviving several years of on-and-off development, this the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass. The map is spiced up with a custom-made resource pack that will require you to install Optifine to play it.
-
-15 objectives |   
-Made for **Minecraft 1.12 + Optifine** |   
-Released on **8 June 2018** |   
-
-<br><br>
-
-## [OVERLOAD (SP02)][link_overload]
 <p style="margin:0"><img src="https://i.imgur.com/Iso86Dq.png" width="700px"></p>
 <p>
   <a target="_blank" href="https://i.imgur.com/1JM7Oka.png"><img src="https://i.imgur.com/1JM7Oka.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/rCeKKJA.png"><img src="https://i.imgur.com/rCeKKJA.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/hNdBPGk.png"><img src="https://i.imgur.com/hNdBPGk.png" width="231px"></a>
 </p>
+15 objectives |   
+Made for **Minecraft 1.12 + Optifine** |   
+Released on **8 June 2018** |   
 
+hold on nothing here yet
+
+Surviving several years of on-and-off development, this the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass. The map is spiced up with a custom-made resource pack that will require you to install Optifine to play it.
+
+<br><br>
+
+## [OVERLOAD (SP02)][link_overload]
+
+<p style="margin:0"><img src="https://i.imgur.com/Iso86Dq.png" width="700px"></p>
+<p>
+  <a target="_blank" href="https://i.imgur.com/1JM7Oka.png"><img src="https://i.imgur.com/1JM7Oka.png" width="231px"></a>
+  <a target="_blank" href="https://i.imgur.com/rCeKKJA.png"><img src="https://i.imgur.com/rCeKKJA.png" width="231px"></a>
+  <a target="_blank" href="https://i.imgur.com/hNdBPGk.png"><img src="https://i.imgur.com/hNdBPGk.png" width="231px"></a>
+</p>
 
 16 objectives + 4 craftable blocks |   
 Made for **Minecraft 1.7** |   
@@ -57,8 +64,13 @@ Before the release of Entropy, this was the definintive "TikaroHD's CTM" map. Ov
 <br><br>
 
 ## [ANIMOSITY (SP01)][link_animosity]
-![Simulation Protocol 01: Animosity](https://i.imgur.com/nhbZ0D9.png)
-(More Screenshots)
+
+<p style="margin:0"><img src="https://i.imgur.com/nhbZ0D9.png" width="700px"></p>
+<p>
+  <a target="_blank" href="https://i.imgur.com/rZfRu4L.png"><img src="https://i.imgur.com/rZfRu4L.png" width="231px"></a>
+  <a target="_blank" href="https://i.imgur.com/IKr0TUa.png"><img src="https://i.imgur.com/IKr0TUa.png" width="231px"></a>
+  <a target="_blank" href="https://i.imgur.com/f2saYVP.png"><img src="https://i.imgur.com/f2saYVP.png" width="231px"></a>
+</p>
 
 _Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…_
 
