@@ -27,12 +27,13 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
 
 ## [ENTROPY (SP03)][link_entropy]
 
-<p style="margin:0"><img src="https://i.imgur.com/Iso86Dq.png" width="700px"></p>
+<p style="margin:0"><img src="https://i.imgur.com/lsUpqdI.png" width="700px"></p>
 <p>
-  <a target="_blank" href="https://i.imgur.com/1JM7Oka.png"><img src="https://i.imgur.com/1JM7Oka.png" width="231px"></a>
-  <a target="_blank" href="https://i.imgur.com/rCeKKJA.png"><img src="https://i.imgur.com/rCeKKJA.png" width="231px"></a>
-  <a target="_blank" href="https://i.imgur.com/hNdBPGk.png"><img src="https://i.imgur.com/hNdBPGk.png" width="231px"></a>
+  <a target="_blank" href="https://i.imgur.com/yq6XaRl.png"><img src="https://i.imgur.com/yq6XaRl.png" width="231px"></a>
+  <a target="_blank" href="https://i.imgur.com/HKzngOt.png"><img src="https://i.imgur.com/HKzngOt.png" width="231px"></a>
+  <a target="_blank" href="https://i.imgur.com/lbQI7AC.png"><img src="https://i.imgur.com/lbQI7AC.png" width="231px"></a>
 </p>
+
 15 objectives |   
 Made for **Minecraft 1.12 + Optifine** |   
 Released on **8 June 2018** |   
