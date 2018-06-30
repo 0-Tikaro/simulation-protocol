@@ -50,7 +50,7 @@ Released on **1 October 2014** |
 ![Simulation Protocol 01: Animosity](https://i.imgur.com/mf4gd0p.png)
 (More Screenshots)
 
-_Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…_
+>_Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…_
 
 16 objectives + 4 craftable blocks |   
 Made for **Minecraft 1.7** |   
