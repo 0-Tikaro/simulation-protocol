@@ -20,15 +20,16 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 ### ENTROPY (SP03)
 hold on nothing here yet
 
+---
+
 ### [OVERLOAD (SP02)][link_overload]
 ![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
 (More Screenshots)
 
 Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?
 
-
-Length: **16 objectives + 4 craftable blocks**
-Made for **Minecraft 1.7**
+Length | 16 objectives + 4 craftable blocks
+Made for | Minecraft 1.7
 
 ---
 
