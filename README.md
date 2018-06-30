@@ -42,6 +42,8 @@ _O nameless sailor, are you ready for one final journey? Sail away to the ends o
 
 Surviving several years of on-and-off development, this the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass. The map is spiced up with a custom-made resource pack that will require you to install Optifine to be used in its full potential.
 
+[Download][link_entropy]
+
 ---
 
 ## [OVERLOAD (SP02)][link_overload]
@@ -62,6 +64,8 @@ _Why is this world here, what’s its purpose? Forgotten by everyone: animals, h
 
 Before the release of Entropy, this was the definitive "TikaroHD's CTM" map. Overload is quite dated by now, but it offers a much more refined experience compared to Animosity. Better visuals and more balanced gameplay ensure that you'll have a fun time messing around with this map.
 
+[Download][link_overload]
+
 ---
 
 ## [ANIMOSITY (SP01)][link_animosity]
@@ -81,6 +85,8 @@ Released on **14 September 2013** |
 _Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…_
 
 This is the very first CTM map I made. As such, it's fairly bland and does not hold up to today's standards neither in gameplay nor in visuals. Nevertheless, you are welcome to take a look to see the map which started this whole collection.
+
+[Download][link_animosity]
 
 ---
 <br><br>
