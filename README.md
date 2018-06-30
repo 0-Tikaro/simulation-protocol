@@ -88,8 +88,6 @@ This is the very first CTM map I made. As such, it's fairly bland and does not h
 #### MINI-CTM
 These are smaller maps, featuring just 3 objectives. They provide a nice small challenge for just a couple of hours - just enough for a small weekend entertainment. Most were made for the [Strawberry Jam](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/maps-discussion/2311800) events.
 
----
-
 ## [LIGEBIED][link_ligebied]
 <p style="margin:0"><img src="https://i.imgur.com/lbHV9oz.png" width="700px"></p>
 
