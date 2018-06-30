@@ -39,14 +39,11 @@ Released on **8 June 2018** |
 
 <a target="_blank" href="https://i.imgur.com/Iso86Dq.png">
   <img src="https://i.imgur.com/Iso86Dq.png" alt="Forest" width="200px">
-</a>
-<a target="_blank" href="https://i.imgur.com/Iso86Dq.png">
+</a> | <a target="_blank" href="https://i.imgur.com/Iso86Dq.png">
+  <img src="https://i.imgur.com/Iso86Dq.png" alt="Forest" width="200px">
+</a> | <a target="_blank" href="https://i.imgur.com/Iso86Dq.png">
   <img src="https://i.imgur.com/Iso86Dq.png" alt="Forest" width="200px">
 </a>
-<a target="_blank" href="https://i.imgur.com/Iso86Dq.png">
-  <img src="https://i.imgur.com/Iso86Dq.png" alt="Forest" width="200px">
-</a>
-(More Screenshots)
 
 16 objectives + 4 craftable blocks |   
 Made for **Minecraft 1.7** |   
