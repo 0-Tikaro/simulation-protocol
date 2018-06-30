@@ -39,9 +39,9 @@ Why is this world here, what’s its purpose? Forgotten by everyone: animals, hu
 16 objectives + 4 craftable blocks |   
 Made for **Minecraft 1.7** |   
 Released on **1 October 2014** |   
-
-   
-
+<p></p>
+<p></p>
+<p></p>
 ### [ANIMOSITY (SP01)][link_animosity]
 ![Simulation Protocol 01: Animosity](https://i.imgur.com/mf4gd0p.png)
 (More Screenshots)
