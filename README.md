@@ -17,12 +17,12 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 
 # BIG MAPS
 
-### ENTROPY (SP03)
+## ENTROPY (SP03)
 hold on nothing here yet
 
 ---
 
-### [OVERLOAD (SP02)][link_overload]
+## [OVERLOAD (SP02)][link_overload]
 ![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
 (More Screenshots)
 
