@@ -26,17 +26,13 @@ hr {
 a {
     font-weight: 300;
     color: #267CB9;
-    background-color: none;
-    padding: 4px;
-    margin: 4px;
+    padding: 0;
     transition: all 0.3s ease;
 }
 
 a:hover {
     font-weight: 300;
-    color: #fff;
-    background-color: #267CB9;
-    padding: 4px;
-    margin: 4px;
+    color: #0095ff;
+    padding: 0 0 4px 0;
     transition: all 0.3s ease;
 }
