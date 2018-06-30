@@ -29,6 +29,7 @@ Why is this world here, what’s its purpose? Forgotten by everyone: animals, hu
 
 Length: **16 objectives + 4 craftable blocks**
 Made for **Minecraft 1.7**
+
 ---
 
 ### [ANIMOSITY (SP01)][link_animosity]
