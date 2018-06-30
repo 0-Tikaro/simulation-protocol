@@ -19,15 +19,17 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 ---
 
 #### FULL-LENGTH CTM
-These maps are the "classic" in terms of size: they offer big challenges with 20+ hours of gameplay time. They also have at least 15 mandatory objectives.
+These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives, they offer long-term challenges with 20+ hours of gameplay time.
 
 ---
 
 ## [ENTROPY (SP03)][link_entropy]
 hold on nothing here yet
 
+Surviving several years of on-and-off development, this the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass. The map is spiced up with a custom-made resource pack that will require you to install Optifine to play it.
+
 15 objectives |   
-Made for **Minecraft 1.12** |   
+Made for **Minecraft 1.12 + Optifine** |   
 Released on **8 June 2018** |   
 
 <br><br>
@@ -42,14 +44,18 @@ Released on **1 October 2014** |
 
 _Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
 
+Before the release of Entropy, this was the definintive "TikaroHD's CTM" map. Overload is quite dated by now, but it offers a much more refined experience compared to Animosity. Better visuals and more balanced gameplay ensure that you'll have a fun time messing around with this map.
+
 ---
 <br><br>
 
 ## [ANIMOSITY (SP01)][link_animosity]
-![Simulation Protocol 01: Animosity](https://i.imgur.com/mf4gd0p.png)
+![Simulation Protocol 01: Animosity](https://i.imgur.com/nhbZ0D9.png)
 (More Screenshots)
 
 _Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…_
+
+This is the very first CTM map I made. As such, it's fairly bland and does not hold up to today's standards neither in gameplay nor in visuals. Nevertheless, you are welcome to take a look to see the map which started this whole collection.
 
 16 objectives + 4 craftable blocks |   
 Made for **Minecraft 1.7** |   
@@ -59,16 +65,16 @@ Released on **14 September 2013** |
 <br><br>
 
 #### MINI-CTM
-These are smaller maps, featuring just 3 objectives. Most were made for the Strawberry Jam events.
+These are smaller maps, featuring just 3 objectives. They provide a nice small challenge for just a couple of hours - just enough for a small weekend entertainment. Most were made for the [Strawberry Jam](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/maps-discussion/2311800) events.
 
 ---
 
 ## [LIGEBIED][link_ligebied]
 ![Ligebied](https://i.imgur.com/lbHV9oz.png)
 
-<i>An old chapel stands alone, looking over the distant sea. It is said that long ago, the secret of fabled golden oaks was kept there. Perhaps it is what you seek?</i>
+_An old chapel stands alone, looking over the distant sea. It is said that long ago, the secret of fabled golden oaks was kept there. Perhaps it is what you seek?_
 
-This map was a small experiment with some of the concepts later used in Entropy. It is not a coincidence that this map is set in the same universe as SP03 and expands some details of its lore.
+This map was a small experiment with some of the concepts later used in Entropy, mainly the custom resource pack integration. It is not a coincidence that this map is set in the same universe as SP03 and exands one of its lore subjects - the "fabled golden oaks".
 
 3 objectives |   
 Made for **Minecraft 1.10** |   
@@ -77,12 +83,10 @@ Released on **29 April 2017** |
 <br><br>
 <br><br>
 
-### [PHANTASM][link_phantasm]
+## [PHANTASM][link_phantasm]
 ![Screenshot](https://i.imgur.com/xXHK6t4.png)
 
-_[TRANSMISSION START]
-Ranger, you have a mission. "Phantasm", the old terran ship, was located. Our reports confirm presence of valuable data inside. It must be retrieved. But be careful - you will encounter heavy resistance.
-[TRANSMISSION END]_
+_Ranger, you have a mission. "Phantasm", the old terran ship, was located. Our reports confirm presence of valuable data inside. It must be retrieved. But be careful - you will encounter heavy resistance._
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #07. Theme is "Shattered Sky", with the limitation that the whole map must be floating over void. 
 
@@ -93,7 +97,7 @@ Released on **11 August 2015** |
 <br><br>
 <br><br>
 
-### [SOUND OF AN OLD AGE][link_sound]
+## [SOUND OF AN OLD AGE][link_sound]
 ![Screenshot](https://i.imgur.com/56AeF0C.png)
 
 _Follow your legacy as a beasthunter to the wicked lands, infested with horrible creatures, in search of great treasures: the Heirlooms of a long-lost bloodline. Retrieve them from the depths of the Old Cathedral, but be careful, as it is a dangerous place to explore alone. May you succumb to numerous monsters or explode to pieces due to a slight mistake, surely no living soul will know..._
@@ -107,7 +111,7 @@ Released on **12 April 2015** |
 <br><br>
 <br><br>
 
-### [BLIZZARD][link_blizzard]
+## [BLIZZARD][link_blizzard]
 ![Screenshot](https://i.imgur.com/HEHZyqf.png)
 
 <i>Your mind springs up suddenly, hit by a sharp frigid wind. What happened...?</i>
@@ -121,8 +125,8 @@ Released on **29 June 2014** |
 <br><br>
 <br><br>
 
-### [SANDSTORM][link_sandstorm]
-![Screenshot](https://i.imgur.com/Fsb7f6T.png)
+## [SANDSTORM][link_sandstorm]
+![Screenshot](https://i.imgur.com/zNQv8F6.png)
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #03. Theme is "Journey".
 
