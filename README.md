@@ -40,7 +40,7 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
 Made for **Minecraft 1.12 + Optifine** |   
 Released on **8 June 2018** |   
 
->hold on nothing here yet
+_O nameless sailor, are you ready for one final journey? Sail away to the ends of the world, where the derelict of tremendous grandeur awaits. Abandoned in horror, it stands in deafening silence, waiting patiently until the dunes of insignificant dust wash it all away..._
 
 Surviving several years of on-and-off development, this the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass. The map is spiced up with a custom-made resource pack that will require you to install Optifine to play it.
 
@@ -58,7 +58,7 @@ Surviving several years of on-and-off development, this the definitive CTM exper
 Made for **Minecraft 1.7** |   
 Released on **1 October 2014** |   
 
->_Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
+_Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
 
 Before the release of Entropy, this was the definintive "TikaroHD's CTM" map. Overload is quite dated by now, but it offers a much more refined experience compared to Animosity. Better visuals and more balanced gameplay ensure that you'll have a fun time messing around with this map.
 
