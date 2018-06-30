@@ -37,7 +37,7 @@ Released on **8 June 2018** |
 <br><br>
 
 ## [OVERLOAD (SP02)][link_overload]
-![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
+<p style="margin:0"><img src="https://i.imgur.com/Iso86Dq.png" width="100%"></p>
 <p align="center">
   <a target="_blank" href="https://i.imgur.com/1JM7Oka.png"><img src="https://i.imgur.com/1JM7Oka.png" width="230px"></a>
   <a target="_blank" href="https://i.imgur.com/rCeKKJA.png"><img src="https://i.imgur.com/rCeKKJA.png" width="230px"></a>
