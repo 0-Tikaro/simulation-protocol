@@ -36,6 +36,11 @@ Released on **8 June 2018** |
 
 ## [OVERLOAD (SP02)][link_overload]
 ![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
+
+<a target="_blank" href="https://i.imgur.com/Iso86Dq.png">
+  <img src="https://i.imgur.com/Iso86Dq.png" alt="Forest">
+</a>
+
 (More Screenshots)
 
 16 objectives + 4 craftable blocks |   
