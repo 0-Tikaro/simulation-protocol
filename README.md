@@ -30,11 +30,14 @@ hold on nothing here yet
 Made for **Minecraft 1.12** |   
 Released on **8 June 2018** |   
 
+<br><br>
+<br><br>
+
 ## [OVERLOAD (SP02)][link_overload]
 ![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
 (More Screenshots)
 
-Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?
+_Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
 
 16 objectives + 4 craftable blocks |   
 Made for **Minecraft 1.7** |   
@@ -47,11 +50,14 @@ Released on **1 October 2014** |
 ![Simulation Protocol 01: Animosity](https://i.imgur.com/mf4gd0p.png)
 (More Screenshots)
 
-Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…
+_Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…_
 
-Length | 16 objectives + 4 craftable blocks
-Made for | Minecraft 1.7
-Release date | 14 September 2013
+16 objectives + 4 craftable blocks |   
+Made for **Minecraft 1.7** |   
+Released on **14 September 2013** |   
+
+<br><br>
+<br><br>
 
 ## MINI-CTM
 These are smaller maps, featuring just 3 objectives. Most were made for the Strawberry Jam events.
@@ -65,12 +71,15 @@ These are smaller maps, featuring just 3 objectives. Most were made for the Stra
 
 This map was a small experiment with some of the concepts later used in Entropy. It is not a coincidence that this map is set in the same universe as SP03 and expands some details of its lore.
 
-Length | 3 objectives
-Made for | Minecraft 1.10
-Release date | 29 April 2017
+3 objectives |   
+Made for **Minecraft 1.10** |   
+Released on **29 April 2017** |   
+
+<br><br>
+<br><br>
 
 ### [Phantasm][link_phantasm]
-*screenshot*
+![Screenshot](https://i.imgur.com/xXHK6t4.png)
 
 _[TRANSMISSION START]
 Ranger, you have a mission. "Phantasm", the old terran ship, was located. Our reports confirm presence of valuable data inside. It must be retrieved. But be careful - you will encounter heavy resistance.
@@ -78,40 +87,52 @@ Ranger, you have a mission. "Phantasm", the old terran ship, was located. Our re
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #07. Theme is "Shattered Sky", with the limitation that the whole map must be floating over void. 
 
-Length | 3 objectives
-Made for | Minecraft 1.8
-Release date | 11 August 2015
+3 objectives |   
+Made for **Minecraft 1.8** |   
+Released on **11 August 2015** |   
+
+<br><br>
+<br><br>
 
 ### [Sound of an Old Age][link_sound]
-*screenshot*
+![Screenshot](https://i.imgur.com/56AeF0C.png)
 
 _Follow your legacy as a beasthunter to the wicked lands, infested with horrible creatures, in search of great treasures: the Heirlooms of a long-lost bloodline. Retrieve them from the depths of the Old Cathedral, but be careful, as it is a dangerous place to explore alone. May you succumb to numerous monsters or explode to pieces due to a slight mistake, surely no living soul will know..._
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #06. Theme is "Traps, Trolls, & April Fools", but the map takes that theme very liberally.
 
-Length | 3 objectives
-Made for | Minecraft 1.7
-Release date | 12 April 2015
+3 objectives |   
+Made for **Minecraft 1.7** |   
+Released on **12 April 2015** |   
+
+<br><br>
+<br><br>
 
 ### [Blizzard][link_blizzard]
-*screenshot*
+![Screenshot](https://i.imgur.com/HEHZyqf.png)
 
 <i>Your mind springs up suddenly, hit by a sharp frigid wind. What happened...?</i>
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #04. Participants had to choose a theme that started with the letter "A". Theme of this map is "Abandonment".
 
-Length | 3 objectives
-Made for | Minecraft 1.7
-Release date | 29 June 2014
+3 objectives |   
+Made for **Minecraft 1.7** |   
+Released on **29 June 2014** |   
+
+<br><br>
+<br><br>
 
 ### [Sandstorm][link_sandstorm]
-![Sandstorm](https://i.imgur.com/Fsb7f6T.png)
+![Screenshot](https://i.imgur.com/Fsb7f6T.png)
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #03. Theme is "Journey".
 
-Length | 3 objectives
-Made for | Minecraft 1.7
-Release date | 23 March 2014
+3 objectives |   
+Made for **Minecraft 1.7** |   
+Released on **23 March 2014** |   
+
+<br><br>
+<br><br>
 
 #### LEGAL
 - You are allowed to make videos\streams of my maps and monetize them.
