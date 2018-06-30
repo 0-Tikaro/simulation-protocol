@@ -26,9 +26,9 @@ These maps are the "classic" in terms of size: they offer big challenges with 20
 ## [ENTROPY (SP03)][link_entropy]
 hold on nothing here yet
 
-Length | 15 objectives
-Made for | Minecraft 1.12
-Release date | 8 June 2018
+15 objectives |   
+Made for **Minecraft 1.12** |   
+Released on **8 June 2018** |   
 
 ## [OVERLOAD (SP02)][link_overload]
 ![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
@@ -36,9 +36,9 @@ Release date | 8 June 2018
 
 Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?
 
-Length 16 objectives + 4 craftable blocks |       
-Made for Minecraft 1.7 |    
-Release date 1 October 2014 |     
+16 objectives + 4 craftable blocks |   
+Made for **Minecraft 1.7** |   
+Released on **1 October 2014** |   
 
 ### [ANIMOSITY (SP01)][link_animosity]
 ![Simulation Protocol 01: Animosity](https://i.imgur.com/mf4gd0p.png)
