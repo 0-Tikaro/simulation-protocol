@@ -15,21 +15,27 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 7. Your objective is to find and complete the special wool monument.
 8. You cannot craft objective items for the monument, except for metal/gem blocks.
 
-#BIG MAPS
-##ENTROPY (SP03)
+# BIG MAPS
+### ENTROPY (SP03)
 hold on nothing here yet
 
-## [OVERLOAD (SP02)](http://www.mediafire.com/file/8rx8ul5ggaip2uf/SP_02_-_Overload_v1.0a.zip/file)
+### [OVERLOAD (SP02)](http://www.mediafire.com/file/8rx8ul5ggaip2uf/SP_02_-_Overload_v1.0a.zip/file)
 *screenshot*
+
 (More Screenshots)
+
 Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?
+
 [Download]
+
 Length: 20 objectives
+
 Made for Minecraft 1.7
+
 Map version 1.0.0
 
 
-##ANIMOSITY (SP01)
+### ANIMOSITY (SP01)
 *screenshot*
 (More Screenshots)
 
@@ -42,10 +48,10 @@ Map version 1.1.1
 
 
 
->>>SMALL MAPS
+# SMALL MAPS
 
 
->Ligebied
+### Ligebied
 ![test](https://i.imgur.com/lbHV9oz.png)
 Length: 3 objectives
 Made for Minecraft 1.10
@@ -56,7 +62,7 @@ Made for Minecraft 1.10
 This map was a small experiment with some of the concepts later used in Entropy. It is not a coincidence that this map is set in the same universe as SP03 and expands some details of its lore.
 
 
-> Phantasm
+### Phantasm
 *screenshot*
 Length: 3 objectives
 Made for Minecraft 1.8
@@ -70,7 +76,7 @@ LOG 702_2: TRANSMISSION END</i>
 This map was made in the span of 3 days as an entry for Strawberry Jam #07. Theme is "Shattered Sky", with the limitation that the whole map must be floating over void. 
 
 
->Sound of an Old Age
+### Sound of an Old Age
 *screenshot*
 Length: 3 objectives
 Made for Minecraft 1.7
