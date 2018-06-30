@@ -26,8 +26,10 @@ hold on nothing here yet
 
 Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?
 
-|Length: 20 objectives|
-|Made for Minecraft 1.7|
+
+Length: 20 objectives
+
+Made for Minecraft 1.7
 
 
 ### [ANIMOSITY (SP01)][link_animosity]
