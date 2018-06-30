@@ -31,19 +31,19 @@ Made for **Minecraft 1.12** |
 Released on **8 June 2018** |   
 
 <br><br>
-<br><br>
 
 ## [OVERLOAD (SP02)][link_overload]
 ![Simulation Protocol 02: Overload](https://i.imgur.com/Iso86Dq.png)
 (More Screenshots)
 
-_Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
-
 16 objectives + 4 craftable blocks |   
 Made for **Minecraft 1.7** |   
 Released on **1 October 2014** |   
 
-<br><br>
+_Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
+
+---
+
 <br><br>
 
 ### [ANIMOSITY (SP01)][link_animosity]
@@ -56,7 +56,6 @@ _Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy
 Made for **Minecraft 1.7** |   
 Released on **14 September 2013** |   
 
-<br><br>
 <br><br>
 
 ## MINI-CTM
