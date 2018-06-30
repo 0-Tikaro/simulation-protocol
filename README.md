@@ -1,8 +1,9 @@
-Care for a difficult, engaging challenge to spice up your minecraft experience? Then you have come to the right place. 
-This thread is a complete archive of my CTM maps. It's a finished collection that will not be expanded in the future (at least there are no plans for it).
+This is a finished collection of Minecraft CTM maps made by TikaroHD. There are no plans to expand it in the future, but some things may get small updates.
 
-What are CTM maps?
-CTM (Complete The Monument) are big sprawling custom worlds, where you as a player have one clear objective: find the monument, and fill it up with the objective items. The objective items are hidden throughout the map, most frequently in special dungeons. A map is “beaten” once you have collected all of these items and beaten all the dungeons.
+---
+
+###### What are CTM maps?
+CTM (Complete The Monument) are big sprawling custom worlds, where you as a player have one clear objective: find the monument and fill it up with the objective items. The objective items are hidden throughout the map, most frequently in special dungeons. A map is “beaten” once you have collected all of these items and beaten all the dungeons.
 
 CTM maps have a standard suite of rules, which all boil down to “don’t play on peaceful and don’t abused the game too much”. You can read the full rule list I use down below:
 
@@ -14,6 +15,8 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 6. Do not cheat villager trades. Use the exact items required.
 7. Your objective is to find and complete the special wool monument.
 8. You cannot craft objective items for the monument, except for metal/gem blocks.
+
+---
 
 ## BIG MAPS
 
