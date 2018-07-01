@@ -76,38 +76,25 @@ a:hover, a:active {
     margin: auto;
     display: block;
     width: 80%;
-    max-width: 700px;
-}
-
-/* Caption of Modal Image */
-#caption {
-    margin: auto;
-    display: block;
-    width: 80%;
-    max-width: 700px;
-    text-align: center;
-    color: #ccc;
-    padding: 10px 0;
-    height: 150px;
 }
 
 /* Add Animation */
-.modal-content, #caption {    
-    -webkit-animation-name: zoom;
-    -webkit-animation-duration: 0s;
-    animation-name: zoom;
-    animation-duration: 0s;
-}
+// .modal-content, #caption {    
+//     -webkit-animation-name: zoom;
+//     -webkit-animation-duration: 0s;
+//     animation-name: zoom;
+//     animation-duration: 0s;
+// }
 
-@-webkit-keyframes zoom {
-    from {-webkit-transform:scale(0)} 
-    to {-webkit-transform:scale(1)}
-}
+// @-webkit-keyframes zoom {
+//     from {-webkit-transform:scale(0)} 
+//     to {-webkit-transform:scale(1)}
+// }
 
-@keyframes zoom {
-    from {transform:scale(0)} 
-    to {transform:scale(1)}
-}
+// @keyframes zoom {
+//     from {transform:scale(0)} 
+//     to {transform:scale(1)}
+// }
 
 /* The Close Button */
 .close {
