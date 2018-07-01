@@ -94,9 +94,9 @@ a:hover, a:active {
 /* Add Animation */
 .modal-content, #caption {    
     -webkit-animation-name: zoom;
-    -webkit-animation-duration: 0.6s;
+    -webkit-animation-duration: 0s;
     animation-name: zoom;
-    animation-duration: 0.6s;
+    animation-duration: 0s;
 }
 
 @-webkit-keyframes zoom {
