@@ -36,7 +36,6 @@
     
     <!--MODAL IMAGES CRUDELY INSERTED INTO THIS-->
     <div id="myModal" class="modal">
-      <span class="close">&times;</span>
       <img class="modal-content" id="img01">
     </div>
     
@@ -52,13 +51,11 @@
           modalImg.src = this.src;
       }
 
-      // Get the <span> element that closes the modal
-      var span = document.getElementsByClassName("close")[0];
-
       // When the user clicks on <span> (x), close the modal
       modal.onclick = function() { 
           modal.style.display = "none";
       }
+      modalImg.onClick = function(){}
     </script>
     <!--MODAL IMAGES END-->
     
