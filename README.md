@@ -25,7 +25,7 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives, they offer long-term challenges with 20+ hours of gameplay time.
 
 ## [ENTROPY (SP03)][link_entropy]
-<p style="margin:0">
+<p style="margin:0 0 -1px 0">
   <a target="_blank" href="https://i.imgur.com/osoC0vP.png"><img src="https://i.imgur.com/osoC0vP.png" width="700px"></a>
 </p>
 <p style="margin:0">
@@ -94,7 +94,7 @@ This is the very first CTM map I made. As such, it's fairly bland and does not h
 
 
 #### MINI-CTM
-These are smaller maps, featuring just 3 objectives. They provide a nice small challenge for just a couple of hours - just enough for a small weekend entertainment. Most were made for the [Strawberry Jam](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/maps-discussion/2311800) events.
+These are smaller maps, featuring just 3 objectives. They provide a quick challenge that will take only a couple of hours - just enough for a small weekend entertainment. Most were made for the [Strawberry Jam](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/maps-discussion/2311800) events.
 
 ## [LIGEBIED][link_ligebied]
 <p style="margin:0">
@@ -105,9 +105,9 @@ These are smaller maps, featuring just 3 objectives. They provide a nice small c
 Made for **Minecraft 1.10** |   
 Released on **29 April 2017** |   
 
-_An old chapel stands alone, looking over the distant sea. It is said that long ago, the secret of fabled golden oaks was kept there. Perhaps it is what you seek?_
+_An old chapel stands alone, looking over the distant sea. It is said that long ago, the secret of fabled golden oaks was kept there. Is this what you've been looking for, by chance?_
 
-This map was a small experiment with some of the concepts later used in Entropy, mainly the custom resource pack integration. It is not a coincidence that this map is set in the same universe as SP03 and expands one of its lore subjects - the "fabled golden oaks".
+This was an experimental map, with some of its good parts later used in Entropy, mainly the custom resource pack integration. It is not a coincidence that Ligebied is set in the same universe as SP03 and expands one of its lore subjects - the "fabled golden oaks".
 
 [Download][link_ligebied]
 
