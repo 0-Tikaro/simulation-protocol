@@ -30,8 +30,8 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
 </p>
 <p style="margin:0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/yq6XaRl.png" width="231px">
-  <a target="_blank" href="https://i.imgur.com/HKzngOt.png"><img src="https://i.imgur.com/HKzngOt.png" width="231px"></a>
-  <a target="_blank" href="https://i.imgur.com/lbQI7AC.png"><img src="https://i.imgur.com/lbQI7AC.png" width="231px"></a>
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/HKzngOt.png" width="231px">
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/lbQI7AC.png" width="231px">
 </p>
 
 15 objectives |   
@@ -48,12 +48,12 @@ Surviving several years of on-and-off development, this the definitive CTM exper
 
 ## [OVERLOAD (SP02)][link_overload]
 <p style="margin:0 0 -1px 0">
-  <a target="_blank" href="https://i.imgur.com/Iso86Dq.png"><img src="https://i.imgur.com/Iso86Dq.png" width="702px"></a>
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/Iso86Dq.png" width="700px">
 </p>
 <p style="margin:0">
-  <a target="_blank" href="https://i.imgur.com/1JM7Oka.png"><img src="https://i.imgur.com/1JM7Oka.png" width="231px"></a>
-  <a target="_blank" href="https://i.imgur.com/rCeKKJA.png"><img src="https://i.imgur.com/rCeKKJA.png" width="231px"></a>
-  <a target="_blank" href="https://i.imgur.com/hNdBPGk.png"><img src="https://i.imgur.com/hNdBPGk.png" width="231px"></a>
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/1JM7Oka.png" width="231px">
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/rCeKKJA.png" width="231px">
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/hNdBPGk.png" width="231px">
 </p>
 
 16 objectives + 4 craftable blocks |   
@@ -70,12 +70,12 @@ Before the release of Entropy, this was the definitive "TikaroHD's CTM" map. Ove
 
 ## [ANIMOSITY (SP01)][link_animosity]
 <p style="margin:0 0 -1px 0">
-  <a target="_blank" href="https://i.imgur.com/nhbZ0D9.png"><img src="https://i.imgur.com/nhbZ0D9.png" width="700px"></a>
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/nhbZ0D9.png" width="700px">
 </p>
 <p style="margin:0">
-  <a target="_blank" href="https://i.imgur.com/rZfRu4L.png"><img src="https://i.imgur.com/rZfRu4L.png" width="231px"></a>
-  <a target="_blank" href="https://i.imgur.com/IKr0TUa.png"><img src="https://i.imgur.com/IKr0TUa.png" width="231px"></a>
-  <a target="_blank" href="https://i.imgur.com/f2saYVP.png"><img src="https://i.imgur.com/f2saYVP.png" width="231px"></a>
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/rZfRu4L.png" width="231px">
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/IKr0TUa.png" width="231px">
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/f2saYVP.png" width="231px">
 </p>
 
 16 objectives + 4 craftable blocks |   
@@ -98,7 +98,7 @@ These are smaller maps, featuring just 3 objectives. They provide a quick challe
 
 ## [LIGEBIED][link_ligebied]
 <p style="margin:0">
-  <a target="_blank" href="https://i.imgur.com/lbHV9oz.png"><img src="https://i.imgur.com/lbHV9oz.png" width="700px"></a>
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/lbHV9oz.png" width="700px">
 </p>
 
 3 objectives |   
@@ -115,7 +115,7 @@ This was an experimental map, with some of its good parts later used in Entropy,
 
 ## [PHANTASM][link_phantasm]
 <p style="margin:0">
-  <a target="_blank" href="https://i.imgur.com/xXHK6t4.png"><img src="https://i.imgur.com/xXHK6t4.png" width="700px"></a>
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/xXHK6t4.png" width="700px">
 </p>
 
 3 objectives |   
@@ -132,7 +132,7 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #07. Them
 
 ## [SOUND OF AN OLD AGE][link_sound]
 <p style="margin:0">
-  <a target="_blank" href="https://i.imgur.com/56AeF0C.png"><img src="https://i.imgur.com/56AeF0C.png" width="700px"></a>
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/56AeF0C.png" width="700px">
 </p>
 
 3 objectives |   
@@ -149,7 +149,7 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #06. Them
 
 ## [BLIZZARD][link_blizzard]
 <p style="margin:0">
-  <a target="_blank" href="https://i.imgur.com/HEHZyqf.png"><img src="https://i.imgur.com/HEHZyqf.png" width="700px"></a>
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/HEHZyqf.png" width="700px">
 </p>
 
 3 objectives |   
@@ -166,7 +166,7 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #04. Part
 
 ## [SANDSTORM][link_sandstorm]
 <p style="margin:0">
-  <a target="_blank" href="https://i.imgur.com/zNQv8F6.png"><img src="https://i.imgur.com/zNQv8F6.png" width="700px"></a>
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/zNQv8F6.png" width="700px">
 </p>
 
 3 objectives |   
