@@ -53,7 +53,9 @@ a:hover, a:active {
     transition: 0.3s;
 }
 
-#myImg:hover {opacity: 0.85;}
+#myImg:hover {
+  opacity: 0.85;
+}
 
 /* The Modal (background) */
 .modal {
