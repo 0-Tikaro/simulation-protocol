@@ -50,7 +50,7 @@ a:hover, a:active {
 // MODAL IMAGES CRUDELY JAMMED INTO THIS
 #myImg {
     cursor: pointer;
-    transition: 0.3s;
+    transition: all 0.3s ease;
 }
 
 #myImg:hover {
