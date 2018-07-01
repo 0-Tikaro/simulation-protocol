@@ -50,12 +50,13 @@ a:hover, a:active {
 // MODAL IMAGES CRUDELY JAMMED INTO THIS
 #myImg {
     cursor: pointer;
-//     transition: all 0.3s ease;
+    transition: all 0.3s ease;
 }
 
-// #myImg:hover {
+#myImg:hover {
 //   opacity: 0.85;
-// }
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 /* The Modal (background) */
 .modal {
