@@ -26,10 +26,10 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
 
 ## [ENTROPY (SP03)][link_entropy]
 <p style="margin:0 0 -1px 0">
-  <img id="myImg" src="https://i.imgur.com/osoC0vP.png" width="700px">
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/osoC0vP.png" width="700px">
 </p>
 <p style="margin:0">
-  <img id="myImg" src="https://i.imgur.com/yq6XaRl.png" width="231px">
+  <img class="screenshot" id="myImg" src="https://i.imgur.com/yq6XaRl.png" width="231px">
   <a target="_blank" href="https://i.imgur.com/HKzngOt.png"><img src="https://i.imgur.com/HKzngOt.png" width="231px"></a>
   <a target="_blank" href="https://i.imgur.com/lbQI7AC.png"><img src="https://i.imgur.com/lbQI7AC.png" width="231px"></a>
 </p>
