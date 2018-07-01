@@ -47,7 +47,7 @@ Surviving several years of on-and-off development, this the definitive CTM exper
 ---
 
 ## [OVERLOAD (SP02)][link_overload]
-<p style="margin:0">
+<p style="margin:0 0 -1px 0">
   <a target="_blank" href="https://i.imgur.com/Iso86Dq.png"><img src="https://i.imgur.com/Iso86Dq.png" width="700px"></a>
 </p>
 <p style="margin:0">
@@ -69,7 +69,7 @@ Before the release of Entropy, this was the definitive "TikaroHD's CTM" map. Ove
 ---
 
 ## [ANIMOSITY (SP01)][link_animosity]
-<p style="margin:0">
+<p style="margin:0 0 -1px 0">
   <a target="_blank" href="https://i.imgur.com/nhbZ0D9.png"><img src="https://i.imgur.com/nhbZ0D9.png" width="700px"></a>
 </p>
 <p style="margin:0">
