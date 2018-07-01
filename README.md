@@ -1,5 +1,5 @@
 ##### Introduction
-This is a finished collection of Minecraft CTM maps made by TikaroHD. There are no plans to expand it in the future, but some things may get small updates.
+This is the finished collection of Minecraft CTM maps made by TikaroHD. There are no plans to expand it in the future, but some maps may get small updates.
 
 To download the maps, click on their titles.
 
@@ -8,14 +8,14 @@ CTM (Complete The Monument) are big sprawling custom worlds, where you as a play
 
 CTM maps have a standard suite of rules, which all boil down to “don’t play on peaceful and don’t abuse the game too much”. You can read the full list of rules I use down below:
 
-1. Do not play on peaceful difficulty. Use Easy or higher (Normal recommended).
+1. Do not play on peaceful difficulty. Use Easy or higher (Normal is recommended).
 2. Do not use mods/glitches to give yourself an advantage.
-3. Do not leave boundaries of the map (these are usually high mountains or bedrock walls).
+3. Do not leave boundaries of the map (these are usually high mountains or bedrock/barrier walls).
 4. Do not create nether portals.
-5. Do not move or craft Ender Chests.
+5. Do not craft or move Ender Chests.
 6. Do not cheat villager trades. Use the exact items required.
-7. Your objective is to find and complete the special wool monument.
-8. You cannot craft objective items for the monument, except for metal/gem blocks.
+7. Your objective is to find and complete the Wool Monument.
+8. You cannot craft objective items for the Monument, except for metal/gem blocks.
 
 ---
 
