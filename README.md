@@ -48,7 +48,7 @@ Surviving several years of on-and-off development, this the definitive CTM exper
 
 ## [OVERLOAD (SP02)][link_overload]
 <p style="margin:0 0 -1px 0">
-  <a target="_blank" href="https://i.imgur.com/Iso86Dq.png"><img src="https://i.imgur.com/Iso86Dq.png" width="700px"></a>
+  <a target="_blank" href="https://i.imgur.com/Iso86Dq.png"><img src="https://i.imgur.com/Iso86Dq.png" width="702px"></a>
 </p>
 <p style="margin:0">
   <a target="_blank" href="https://i.imgur.com/1JM7Oka.png"><img src="https://i.imgur.com/1JM7Oka.png" width="231px"></a>
