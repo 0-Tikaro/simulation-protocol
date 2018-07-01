@@ -49,12 +49,11 @@ a:hover, a:active {
 
 // MODAL IMAGES CRUDELY JAMMED INTO THIS
 #myImg {
-    border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
 }
 
-#myImg:hover {opacity: 0.7;}
+#myImg:hover {opacity: 0.85;}
 
 /* The Modal (background) */
 .modal {
@@ -77,24 +76,6 @@ a:hover, a:active {
     display: block;
     width: 80%;
 }
-
-/* Add Animation */
-// .modal-content, #caption {    
-//     -webkit-animation-name: zoom;
-//     -webkit-animation-duration: 0s;
-//     animation-name: zoom;
-//     animation-duration: 0s;
-// }
-
-// @-webkit-keyframes zoom {
-//     from {-webkit-transform:scale(0)} 
-//     to {-webkit-transform:scale(1)}
-// }
-
-// @keyframes zoom {
-//     from {transform:scale(0)} 
-//     to {transform:scale(1)}
-// }
 
 /* The Close Button */
 .close {
