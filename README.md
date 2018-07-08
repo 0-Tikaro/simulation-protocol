@@ -40,7 +40,9 @@ Released on **8 June 2018** |
 
 _O nameless sailor, are you ready for one final journey? Sail away to the ends of the world, where the derelict of tremendous grandeur awaits. Abandoned in horror, it stands in deafening silence, waiting patiently until the dunes of insignificant dust wash it all away..._
 
-Surviving several years of on-and-off development, this the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass. The map is spiced up with a custom-made resource pack that will require you to install [Optifine][link_optifine] to be used in its full potential.
+Surviving several years of on-and-off development, this the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass.
+
+The map is spiced up with a custom-made resource pack that will require you to install [Optifine][link_optifine] to be used in its full potential.
 
 [Download][link_entropy]
 
