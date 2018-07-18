@@ -44,6 +44,7 @@ Surviving several years of on-and-off development, this the definitive CTM exper
 
 The map is spiced up with a custom-made resource pack that will require you to install [Optifine][link_optifine] to be used in its full potential.
 
+<i class="fas fa-download" style="font-size=18px"></i>
 [Download][link_entropy]
 
 ---
@@ -66,7 +67,6 @@ _Why is this world here, what’s its purpose? Forgotten by everyone: animals, h
 
 Before the release of Entropy, this was the definitive "TikaroHD's CTM" map. Overload is quite dated by now, but it offers a much more refined experience compared to Animosity. Better visuals and more balanced gameplay ensure that you'll have a fun time messing around with this map.
 
-<a href=http://www.mediafire.com/file/8rx8ul5ggaip2uf><i style="height=18px" class="fas fa-download"></i></a>
 [Download][link_overload]
 
 ---
