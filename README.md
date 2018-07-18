@@ -1,5 +1,5 @@
 ##### Introduction
-This is the finished collection of Minecraft CTM maps made by TikaroHD. There are no plans to expand it in the future, but some maps may get small updates.
+This is the finished collection of Minecraft CTM maps made by Tikaro. There are no plans to expand it in the future, but some maps may get small updates.
 
 To download the maps, click on their titles.
 
@@ -40,7 +40,7 @@ Released on **8 June 2018** |
 
 _O nameless sailor, are you ready for one final journey? Sail away to the ends of the world, where the derelict of tremendous grandeur awaits. Abandoned in horror, it stands in deafening silence, waiting patiently until the dunes of insignificant dust wash it all away..._
 
-Surviving several years of on-and-off development, this the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass.
+Surviving several years of on-and-off development, this is the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass.
 
 The map is spiced up with a custom-made resource pack that will require you to install [Optifine][link_optifine] to be used in its full potential.
 
@@ -65,7 +65,7 @@ Released on **1 October 2014** |
 
 _Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
 
-Before the release of Entropy, this was the definitive "TikaroHD's CTM" map. Overload is quite dated by now, but it offers a much more refined experience compared to Animosity. Better visuals and more balanced gameplay ensure that you'll have a fun time messing around with this map.
+Before the release of Entropy, this was the definitive "Tikaro's CTM" map. Overload is quite dated by now, but it offers a much more refined experience compared to Animosity. Better visuals and more balanced gameplay ensure that you'll have a fun time messing around with this map.
 
 <a href="http://www.mediafire.com/file/8rx8ul5ggaip2uf" class="fas fa-download"><p> Download</p></a>
 [Download][link_overload]
