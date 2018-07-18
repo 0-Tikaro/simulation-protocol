@@ -24,7 +24,7 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 #### FULL-LENGTH CTM
 These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives, they offer long-term challenges with 20+ hours of gameplay time.
 
-## [ENTROPY (SP03)][link_entropy]
+## [ENTROPY (SP03)][link_entropy] <a href="https://www.reddit.com/r/AskReddit/comments/8znogp/what_is_something_nicethoughtful_you_can_do_or/" class="fas fa-download"></a>
 <p style="margin:0 0 -1px 0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/osoC0vP.png" width="700px">
 </p>
@@ -44,7 +44,6 @@ Surviving several years of on-and-off development, this the definitive CTM exper
 
 The map is spiced up with a custom-made resource pack that will require you to install [Optifine][link_optifine] to be used in its full potential.
 
-<i class="fas fa-download" style="font-size=18px"></i>
 <a href="https://www.reddit.com/r/AskReddit/comments/8znogp/what_is_something_nicethoughtful_you_can_do_or/" class="fas fa-download"></a>
 [Download][link_entropy]
 
