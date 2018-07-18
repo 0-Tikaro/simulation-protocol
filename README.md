@@ -44,7 +44,7 @@ Surviving several years of on-and-off development, this the definitive CTM exper
 
 The map is spiced up with a custom-made resource pack that will require you to install [Optifine][link_optifine] to be used in its full potential.
 
-<a href="https://www.reddit.com/r/AskReddit/comments/8znogp/what_is_something_nicethoughtful_you_can_do_or/" class="fas fa-download"></a>
+<a href="#entropy-(sp03)" class="fas fa-download"></a>
 [Download][link_entropy]
 
 ---
