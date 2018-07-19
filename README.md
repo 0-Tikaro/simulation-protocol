@@ -24,7 +24,7 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 #### FULL-LENGTH CTM
 These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives, they offer long-term challenges with 20+ hours of gameplay time.
 
-## [Entropy (SP03)][link_entropy]
+## [ENTROPY - SP III][link_entropy]
 <p style="margin:0 0 -1px 0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/osoC0vP.png" width="700px">
 </p>
@@ -63,7 +63,7 @@ The map is spiced up with a custom-made resource pack that will require you to i
 
 ---
 
-## [OVERLOAD (SP02)][link_overload]
+## [OVERLOAD - SP II][link_overload]
 <p style="margin:0 0 -1px 0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/Iso86Dq.png" width="700px">
 </p>
@@ -100,7 +100,7 @@ Before the release of Entropy, this was the definitive "Tikaro's CTM" map. Overl
 
 ---
 
-## [ANIMOSITY (SP01)][link_animosity]
+## [ANIMOSITY - SP I][link_animosity]
 <p style="margin:0 0 -1px 0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/nhbZ0D9.png" width="700px">
 </p>
