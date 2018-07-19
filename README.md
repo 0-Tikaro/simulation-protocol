@@ -65,7 +65,6 @@ The map is spiced up with a custom-made resource pack that will require you to i
 
 ---
 
-## [OVERLOAD - SP II][link_overload]
 <div style="display:inline-block"><h2 id="overload" style="text-align:left">Overload</h2></div>
 <div style="display:inline-block; float:right"><h2 style="text-align:right;color:lightgrey">Simulation Protocol II</h2></div>
 
@@ -105,8 +104,6 @@ Before the release of Entropy, this was the definitive "Tikaro's CTM" map. Overl
 
 ---
 
-## [ANIMOSITY - SP I][link_animosity]
-
 <div style="display:inline-block"><h2 id="animosity" style="text-align:left">Animosity</h2></div>
 <div style="display:inline-block; float:right"><h2 style="text-align:right;color:lightgrey">Simulation Protocol I</h2></div>
 
@@ -119,15 +116,30 @@ Before the release of Entropy, this was the definitive "Tikaro's CTM" map. Overl
   <img class="screenshot" id="myImg" src="https://i.imgur.com/f2saYVP.png" width="231px">
 </p>
 
-16 objectives + 4 craftable blocks |   
-Made for **Minecraft 1.7** |   
-Released on **14 September 2013** |   
+<table>
+  <tbody>
+    <tr>
+      <td class="table-icon"><i class="fas fa-clock"></i></td>
+      <td>16 objectives + 4 craftable blocks</td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-cube"></i></td>
+      <td>Made for <strong>Minecraft 1.7</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-calendar-alt"></i></td>
+      <td>Released on <strong>14 September 2013</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-download"></i></td>
+      <td><a href="http://www.mediafire.com/file/zdbdur06fou653y" target="_blank">Download</a></td>
+    </tr>
+  </tbody>
+</table>
 
 _Explore deep sprawling caverns and uncover ancient ruins left in time’s mercy. Yet be careful, for there are many things lurking out there, in the shadows. Your goal, lonely adventurer, is the so-called Monument, standing silently somewhere down below…_
 
 This is the very first CTM map I made. As such, it's fairly bland and does not hold up to today's standards neither in gameplay nor in visuals. Nevertheless, you are welcome to take a look to see the map which started this whole collection.
-
-[Download][link_animosity]
 
 ---
 <br><br>
@@ -137,14 +149,33 @@ This is the very first CTM map I made. As such, it's fairly bland and does not h
 #### MINI-CTM
 These are smaller maps, featuring just 3 objectives. They provide a quick challenge that will take only a couple of hours - just enough for a small weekend entertainment. Most were made for the [Strawberry Jam](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/maps-discussion/2311800) events.
 
-## [LIGEBIED][link_ligebied]
+<div style="display:inline-block"><h2 id="ligebied" style="text-align:left">Ligebied</h2></div>
+<div style="display:inline-block; float:right"><h2 class="comment">Minimap 5</h2></div>
+
 <p style="margin:0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/lbHV9oz.png" width="700px">
 </p>
 
-3 objectives |   
-Made for **Minecraft 1.10** |   
-Released on **29 April 2017** |   
+<table>
+  <tbody>
+    <tr>
+      <td class="table-icon"><i class="fas fa-clock"></i></td>
+      <td>3 objectives</td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-cube"></i></td>
+      <td>Made for <strong>Minecraft 1.10</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-calendar-alt"></i></td>
+      <td>Released on <strong>29 April 2017</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-download"></i></td>
+      <td><a href="http://www.mediafire.com/file/7cadie9frem35u8" target="_blank">Download</a></td>
+    </tr>
+  </tbody>
+</table>
 
 _An old chapel stands alone, looking over the distant sea. It is said that long ago, the secret of fabled golden oaks was kept there. Is this what you've been looking for, by chance?_
 
