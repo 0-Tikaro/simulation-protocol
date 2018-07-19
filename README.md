@@ -89,7 +89,7 @@ The map is spiced up with a custom-made resource pack that will require you to i
     </tr>
     <tr>
       <td class="table-icon"><i class="fas fa-download"></i></td>
-      <td><a href="http://www.mediafire.com/file/8rx8ul5ggaip2uf" download="SP 02 - Overload v1.0a.zip">Download</a></td>
+      <td><a href="http://www.mediafire.com/file/8rx8ul5ggaip2uf" download="SP 02 - Overload v1.0a.zip" target="_blank">Download</a></td>
     </tr>
   </tbody>
 </table>
