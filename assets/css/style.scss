@@ -48,6 +48,11 @@ h2 {
   text-transform: uppercase;
   font-size: 25px;
 }
+h2.comment {
+  text-align:right;
+  color:lightgrey;
+  text-transform: capitalize;
+}
 h4, h5 {
   margin: 0 0 10px;
 }
