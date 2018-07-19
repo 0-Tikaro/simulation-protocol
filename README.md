@@ -94,16 +94,9 @@ The map is spiced up with a custom-made resource pack that will require you to i
   </tbody>
 </table>
 
-16 objectives + 4 craftable blocks |   
-Made for **Minecraft 1.7** |   
-Released on **1 October 2014** |   
-
 _Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
 
 Before the release of Entropy, this was the definitive "Tikaro's CTM" map. Overload is quite dated by now, but it offers a much more refined experience compared to Animosity. Better visuals and more balanced gameplay ensure that you'll have a fun time messing around with this map.
-
-<a href="http://www.mediafire.com/file/8rx8ul5ggaip2uf" class="fas fa-download"><p> Download</p></a>
-[Download][link_overload]
 
 ---
 
