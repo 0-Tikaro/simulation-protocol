@@ -40,6 +40,12 @@ hr {
   margin: 20px 0 100px;
 }
 
+h2 {
+  padding-top: 20px;
+  color: #393939;
+  font-family: Palatino Linotype;
+  font-weight: 800;
+}
 h4, h5 {
   margin: 0 0 10px;
 }
@@ -54,7 +60,6 @@ a, a:visited, a:focus {
   margin: 0;
   transition: all 0.3s ease;
 }
-
 a:hover, a:active {
   font-weight: 300;
   color: #00abff;
