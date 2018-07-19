@@ -39,6 +39,27 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
 <i class="fas fa-calendar-alt"></i> | Released on **8 June 2018** |   
 <i class="fas fa-download"></i> | [Download][link_entropy] |  
 
+<table>
+  <tbody>
+    <tr>
+      <td class="table-icon"><i class="fas fa-clock"></i></td>
+      <td>15 objectives</td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-cube"></i></td>
+      <td>Made for <strong>Minecraft 1.12 + <a href="https://optifine.net/downloads">Optifine</a></strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-calendar-alt"></i></td>
+      <td>Released on <strong>8 June 2018</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-download"></i></td>
+      <td><a href="nothing">Download</a></td>
+    </tr>
+  </tbody>
+</table>
+
 _O nameless sailor, are you ready for one final journey? Sail away to the ends of the world, where the derelict of tremendous grandeur awaits. Abandoned in horror, it stands in deafening silence, waiting patiently until the dunes of insignificant dust wash it all away..._
 
 Surviving several years of on-and-off development, this is the definitive CTM experience I bring to the table. Entropy offers you a gigantic cohesive world to explore, filled to the brim with lore and hiding many secrets under its seemingly withered silent carcass.
