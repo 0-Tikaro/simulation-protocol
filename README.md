@@ -93,12 +93,12 @@ The map is spiced up with a custom-made resource pack that will require you to i
     </tr>
     <tr>
       <td class="table-icon"><i class="fas fa-download"></i></td>
-      <td><a href="http://www.mediafire.com/file/8rx8ul5ggaip2uf" download="SP 02 - Overload v1.0a.zip" target="_blank">Download</a></td>
+      <td><a href="http://www.mediafire.com/file/8rx8ul5ggaip2uf" target="_blank">Download</a></td>
     </tr>
   </tbody>
 </table>
 
-_Why is this world here, what’s its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
+_Why is this world here, what is its purpose? Forgotten by everyone: animals, humans, gods, it stands – a derelict of greater times. Weathered stones whisper of the sacred Monument basking under the great blue sky, yet no records remain of where it is or what is its purpose. Perhaps you can figure it out…?_
 
 Before the release of Entropy, this was the definitive "Tikaro's CTM" map. Overload is quite dated by now, but it offers a much more refined experience compared to Animosity. Better visuals and more balanced gameplay ensure that you'll have a fun time messing around with this map.
 
@@ -188,15 +188,30 @@ This was an experimental map, with some of its good parts later used in Entropy,
   <img class="screenshot" id="myImg" src="https://i.imgur.com/xXHK6t4.png" width="700px">
 </p>
 
-3 objectives |   
-Made for **Minecraft 1.8** |   
-Released on **11 August 2015** |   
+<table>
+  <tbody>
+    <tr>
+      <td class="table-icon"><i class="fas fa-clock"></i></td>
+      <td>3 objectives</td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-cube"></i></td>
+      <td>Made for <strong>Minecraft 1.8</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-calendar-alt"></i></td>
+      <td>Released on <strong>11 August 2015</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-download"></i></td>
+      <td><a href="http://www.mediafire.com/file/g1e2v44jsxp7d24" target="_blank">Download</a></td>
+    </tr>
+  </tbody>
+</table>
 
 _Ranger, you have a mission. "Phantasm", the old terran ship, was located. Our reports confirm presence of valuable data inside. It must be retrieved. But be careful - you will encounter heavy resistance._
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #07. Theme is "Shattered Sky", with the limitation that the whole map must be floating over void. 
-
-[Download][link_phantasm]
 
 ---
 
@@ -206,15 +221,30 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #07. Them
   <img class="screenshot" id="myImg" src="https://i.imgur.com/56AeF0C.png" width="700px">
 </p>
 
-3 objectives |   
-Made for **Minecraft 1.7** |   
-Released on **12 April 2015** |   
+<table>
+  <tbody>
+    <tr>
+      <td class="table-icon"><i class="fas fa-clock"></i></td>
+      <td>3 objectives</td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-cube"></i></td>
+      <td>Made for <strong>Minecraft 1.7</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-calendar-alt"></i></td>
+      <td>Released on <strong>12 April 2015</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-download"></i></td>
+      <td><a href="http://www.mediafire.com/file/9lono234wlp55i3" target="_blank">Download</a></td>
+    </tr>
+  </tbody>
+</table>
 
 _Follow your legacy as a beasthunter to the wicked lands, infested with horrible creatures, in search of great treasures: the Heirlooms of a long-lost bloodline. Retrieve them from the depths of the Old Cathedral, but be careful, as it is a dangerous place to explore alone. May you succumb to numerous monsters or explode to pieces due to a slight mistake, surely no living soul will know..._
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #06. Theme is "Traps, Trolls, & April Fools", but the map takes that theme very liberally.
-
-[Download][link_sound]
 
 ---
 
@@ -224,15 +254,30 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #06. Them
   <img class="screenshot" id="myImg" src="https://i.imgur.com/HEHZyqf.png" width="700px">
 </p>
 
-3 objectives |   
-Made for **Minecraft 1.7** |   
-Released on **29 June 2014** |   
+<table>
+  <tbody>
+    <tr>
+      <td class="table-icon"><i class="fas fa-clock"></i></td>
+      <td>3 objectives</td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-cube"></i></td>
+      <td>Made for <strong>Minecraft 1.7</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-calendar-alt"></i></td>
+      <td>Released on <strong>29 June 2014</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-download"></i></td>
+      <td><a href="http://www.mediafire.com/file/nmnd64q06sh117c" target="_blank">Download</a></td>
+    </tr>
+  </tbody>
+</table>
 
 _Your mind springs up suddenly, hit by a sharp frigid wind. What happened...?_
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #04. Participants had to choose a theme that started with the letter "A". Theme of this map is "Abandonment".
-
-[Download][link_blizzard]
 
 ---
 
@@ -242,13 +287,28 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #04. Part
   <img class="screenshot" id="myImg" src="https://i.imgur.com/zNQv8F6.png" width="700px">
 </p>
 
-3 objectives |   
-Made for **Minecraft 1.7** |   
-Released on **23 March 2014** |   
+<table>
+  <tbody>
+    <tr>
+      <td class="table-icon"><i class="fas fa-clock"></i></td>
+      <td>3 objectives</td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-cube"></i></td>
+      <td>Made for <strong>Minecraft 1.7</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-calendar-alt"></i></td>
+      <td>Released on <strong>23 March 2014</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-download"></i></td>
+      <td><a href="http://www.mediafire.com/file/9bjzobr8u4d4b35" target="_blank">Download</a></td>
+    </tr>
+  </tbody>
+</table>
 
 This map was made in the span of 3 days as an entry for Strawberry Jam #03. Theme is "Journey".
-
-[Download][link_sandstorm]
 
 ---
 
