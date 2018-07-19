@@ -52,7 +52,7 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
     </tr>
     <tr>
       <td class="table-icon"><i class="fas fa-download"></i></td>
-      <td><a href="nothing">Download</a></td>
+      <td><a href="nothing">Not available yet!</a></td>
     </tr>
   </tbody>
 </table>
