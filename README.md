@@ -34,11 +34,6 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
   <img class="screenshot" id="myImg" src="https://i.imgur.com/lbQI7AC.png" width="231px">
 </p>
 
-<i class="fas fa-clock"></i> | 15 objectives |   
-<i class="fas fa-cube"></i> | Made for **Minecraft 1.12 + [Optifine][link_optifine]** |   
-<i class="fas fa-calendar-alt"></i> | Released on **8 June 2018** |   
-<i class="fas fa-download"></i> | [Download][link_entropy] |  
-
 <table>
   <tbody>
     <tr>
@@ -77,6 +72,27 @@ The map is spiced up with a custom-made resource pack that will require you to i
   <img class="screenshot" id="myImg" src="https://i.imgur.com/rCeKKJA.png" width="231px">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/hNdBPGk.png" width="231px">
 </p>
+
+<table>
+  <tbody>
+    <tr>
+      <td class="table-icon"><i class="fas fa-clock"></i></td>
+      <td>16 objectives + 4 craftable blocks</td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-cube"></i></td>
+      <td>Made for <strong>Minecraft 1.7</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-calendar-alt"></i></td>
+      <td>Released on <strong>1 October 2014</strong></td>
+    </tr>
+    <tr>
+      <td class="table-icon"><i class="fas fa-download"></i></td>
+      <td><a href="http://www.mediafire.com/file/8rx8ul5ggaip2uf" download="SP 02 - Overload v1.0a.zip">Download</a></td>
+    </tr>
+  </tbody>
+</table>
 
 16 objectives + 4 craftable blocks |   
 Made for **Minecraft 1.7** |   
