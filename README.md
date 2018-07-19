@@ -37,7 +37,7 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
 <i class="fas fa-clock"></i> 15 objectives |   
 <i class="fas fa-cube"></i> Made for **Minecraft 1.12 + [Optifine][link_optifine]** |   
 <i class="fas fa-calendar-alt"></i> Released on **8 June 2018** |   
-<i class="fas fa-download-alt"></i> [Download][link_entropy] |  
+<i class="fas fa-download"></i> [Download][link_entropy] |  
 
 _O nameless sailor, are you ready for one final journey? Sail away to the ends of the world, where the derelict of tremendous grandeur awaits. Abandoned in horror, it stands in deafening silence, waiting patiently until the dunes of insignificant dust wash it all away..._
 
