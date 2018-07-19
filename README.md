@@ -45,9 +45,6 @@ Surviving several years of on-and-off development, this is the definitive CTM ex
 
 The map is spiced up with a custom-made resource pack that will require you to install [Optifine][link_optifine] to be used in its full potential.
 
-<a href="#entropy-sp03-" class="fas fa-download"></a>
-[Download][link_entropy]
-
 ---
 
 ## [OVERLOAD (SP02)][link_overload]
