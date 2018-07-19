@@ -25,7 +25,7 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives, they offer long-term challenges with 20+ hours of gameplay time.
 
 <div style="display:inline-block"><h2 id="entropy" style="text-align:left">ENTROPY</h2></div>
-<div style="display:inline-block; float:right"><h2 style="text-align:right;color:lightgrey">Simulation Protocol III</h2></div>
+<div style="display:inline-block; float:right"><h2 class="comment">Simulation Protocol 03</h2></div>
 
 <p style="margin:0 0 -1px 0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/osoC0vP.png" width="700px">
