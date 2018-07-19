@@ -66,7 +66,7 @@ The map is spiced up with a custom-made resource pack that will require you to i
 ---
 
 <div style="display:inline-block"><h2 id="overload" style="text-align:left">Overload</h2></div>
-<div style="display:inline-block; float:right"><h2 style="text-align:right;color:lightgrey">Simulation Protocol II</h2></div>
+<div style="display:inline-block; float:right"><h2 class="comment">Simulation Protocol 02</h2></div>
 
 <p style="margin:0 0 -1px 0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/Iso86Dq.png" width="700px">
@@ -105,7 +105,7 @@ Before the release of Entropy, this was the definitive "Tikaro's CTM" map. Overl
 ---
 
 <div style="display:inline-block"><h2 id="animosity" style="text-align:left">Animosity</h2></div>
-<div style="display:inline-block; float:right"><h2 style="text-align:right;color:lightgrey">Simulation Protocol I</h2></div>
+<div style="display:inline-block; float:right"><h2 class="comment">Simulation Protocol 01</h2></div>
 
 <p style="margin:0 0 -1px 0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/nhbZ0D9.png" width="700px">
@@ -150,7 +150,6 @@ This is the very first CTM map I made. As such, it's fairly bland and does not h
 These are smaller maps, featuring just 3 objectives. They provide a quick challenge that will take only a couple of hours - just enough for a small weekend entertainment. Most were made for the [Strawberry Jam](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/maps-discussion/2311800) events.
 
 <div style="display:inline-block"><h2 id="ligebied" style="text-align:left">Ligebied</h2></div>
-<div style="display:inline-block; float:right"><h2 class="comment">Minimap 5</h2></div>
 
 <p style="margin:0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/lbHV9oz.png" width="700px">
@@ -181,11 +180,10 @@ _An old chapel stands alone, looking over the distant sea. It is said that long 
 
 This was an experimental map, with some of its good parts later used in Entropy, mainly the custom resource pack integration. It is not a coincidence that Ligebied is set in the same universe as SP03 and expands one of its lore subjects - the "fabled golden oaks".
 
-[Download][link_ligebied]
-
 ---
 
-## [PHANTASM][link_phantasm]
+<div style="display:inline-block"><h2 id="phantasm" style="text-align:left">Phantasm</h2></div>
+
 <p style="margin:0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/xXHK6t4.png" width="700px">
 </p>
@@ -202,7 +200,8 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #07. Them
 
 ---
 
-## [SOUND OF AN OLD AGE][link_sound]
+<div style="display:inline-block"><h2 id="sound-of-an-old-age" style="text-align:left">Sound of an Old Age</h2></div>
+
 <p style="margin:0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/56AeF0C.png" width="700px">
 </p>
@@ -219,7 +218,8 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #06. Them
 
 ---
 
-## [BLIZZARD][link_blizzard]
+<div style="display:inline-block"><h2 id="blizzard" style="text-align:left">Blizzard</h2></div>
+
 <p style="margin:0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/HEHZyqf.png" width="700px">
 </p>
@@ -236,7 +236,8 @@ This map was made in the span of 3 days as an entry for Strawberry Jam #04. Part
 
 ---
 
-## [SANDSTORM][link_sandstorm]
+<div style="display:inline-block"><h2 id="sandstorm" style="text-align:left">Sandstorm</h2></div>
+
 <p style="margin:0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/zNQv8F6.png" width="700px">
 </p>
