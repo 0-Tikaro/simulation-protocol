@@ -24,8 +24,9 @@ CTM maps have a standard suite of rules, which all boil down to “don’t play 
 #### FULL-LENGTH CTM
 These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives, they offer long-term challenges with 20+ hours of gameplay time.
 
-## ENTROPY - SP III
-<div style="display:inline-block"><h2 style="text-align:left">ENTROPY</h2></div><div style="display:inline-block"><h2 style="text-align:right">SP03</h2></div>
+<div style="display:inline-block"><h2 id="entropy" style="text-align:left">ENTROPY</h2></div>
+<div style="display:inline-block; float:right"><h2 style="text-align:right">Simulation Protocol III</h2></div>
+
 <p style="margin:0 0 -1px 0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/osoC0vP.png" width="700px">
 </p>
@@ -65,6 +66,9 @@ The map is spiced up with a custom-made resource pack that will require you to i
 ---
 
 ## [OVERLOAD - SP II][link_overload]
+<div style="display:inline-block"><h2 id="overload" style="text-align:left">Overload</h2></div>
+<div style="display:inline-block; float:right"><h2 style="text-align:right">Simulation Protocol II</h2></div>
+
 <p style="margin:0 0 -1px 0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/Iso86Dq.png" width="700px">
 </p>
@@ -102,6 +106,10 @@ Before the release of Entropy, this was the definitive "Tikaro's CTM" map. Overl
 ---
 
 ## [ANIMOSITY - SP I][link_animosity]
+
+<div style="display:inline-block"><h2 id="animosity" style="text-align:left">Animosity</h2></div>
+<div style="display:inline-block; float:right"><h2 style="text-align:right">Simulation Protocol I</h2></div>
+
 <p style="margin:0 0 -1px 0">
   <img class="screenshot" id="myImg" src="https://i.imgur.com/nhbZ0D9.png" width="700px">
 </p>
