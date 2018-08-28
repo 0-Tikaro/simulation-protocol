@@ -48,11 +48,11 @@ These maps are the "classic" of CTM maps in terms of scale. With 15+ objectives,
     </tr>
     <tr>
       <td class="table-icon"><i class="fas fa-calendar-alt"></i></td>
-      <td>Released on <strong>8 June 2018</strong></td>
+      <td>Released on <strong>28 August 2018</strong></td>
     </tr>
     <tr>
       <td class="table-icon"><i class="fas fa-download"></i></td>
-      <td><a href="nothing">Not available yet!</a></td>
+      <td><a href="http://www.mediafire.com/file/ntgrixpg7s37jgg">Download</a></td>
     </tr>
   </tbody>
 </table>
