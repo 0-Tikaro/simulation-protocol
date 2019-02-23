@@ -1,0 +1,122 @@
+/** {border: 1px solid red}*/
+:root{
+  --text-color: #444;
+  --link-color-def: #2277AA;
+  --link-color-hover: #2CA8F3;
+  --shade-color: #d8d8d8;
+  --bg-color: #f8f8f8;
+
+  --line: 1px solid var(--shade-color);
+}
+body {
+  margin: 0;
+  padding: 0;
+  font: 19px 'Source Sans Pro', 'Helvetica', 'Arial', sans-serif;
+  color: var(--text-color);
+  background: var(--bg-color);
+}
+.wrapper {
+  width: 1020px;
+  margin: auto;
+  margin-top: 60px;
+}
+header {
+  position: fixed;
+  width: 260px;
+  font-size: 0.9em;
+}
+header p {
+  margin: 0;
+}
+header ul {
+  line-height: 1.5;
+  padding: 0;
+}
+
+#logo {
+  margin-top: 0;
+  font-size: 1.85rem;
+}
+
+section {
+  margin-left: 300px;
+  width: 650px;
+}
+
+p {
+  line-height: 1.35;
+}
+p.lore {
+  font-style: italic;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+ul.map-info {
+  margin-top: 0;
+  font-size: 0.9em;
+}
+ul.map-info li {
+  margin: 0.3em 0;
+  padding: 0.3em 0;
+  border-bottom: var(--line);
+}
+ul.map-info i {
+  padding-right: 0.8em;
+  font-size: 16px;
+}
+
+#contacts {
+  text-align: center;
+}
+#contacts i {
+  font-size: 20px;
+  margin-top: 1rem;
+  padding: 0 2rem;
+}
+
+a, a:hover, a:visited {
+  text-decoration: none;  
+  transition: color 0.3s ease;
+}
+a {
+  color: var(--link-color-def);
+}
+a:hover {
+  color: var(--link-color-hover);
+}
+
+img {
+  width: 100%;
+}
+.screenshots-row {
+  display: flex;
+}
+.screenshots-column {
+  flex: 33.33%;
+  padding: 5px;
+}
+.screenshots-column:nth-child(1) {
+  padding-left: 0;
+}
+.screenshots-column:nth-child(3) {
+  padding-right: 0;
+}
+
+
+hr {
+  border: 0;
+  border-bottom: var(--line);
+  margin: 20px 0;
+}
+
+h1, h2 {
+  font-weight: 600;
+}
+h1 {
+  font-size: 1.5rem;
+}
+h2 {
+  padding-top: 60px;
+}
